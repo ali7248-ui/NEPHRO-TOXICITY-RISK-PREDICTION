@@ -1,0 +1,2144 @@
+n_drugs,combination,reports
+2,Carboplatin + Pemetrexed disodium,65
+2,Carboplatin + Paclitaxel,49
+2,Letrozole + Ribociclib succinate,40
+2,Losartan potassium + Metformin hydrochloride,36
+2,Cisplatin + Gemcitabine hydrochloride,35
+3,Mycophenolate mofetil + Prednisone + Tacrolimus,33
+2,Acetaminophen + Ibuprofen,25
+3,Carboplatin + Docetaxel + Trastuzumab,24
+2,Prednisone + Tacrolimus,21
+3,Fluorouracil + Leucovorin calcium + Oxaliplatin,21
+3,Bevacizumab + Carboplatin + Paclitaxel,19
+3,Bortezomib + Dexamethasone + Lenalidomide,19
+3,Mycophenolate mofetil + Prednisolone + Tacrolimus,19
+2,Mycophenolate mofetil + Tacrolimus,19
+2,Mycophenolate mofetil + Prednisone,18
+3,Carboplatin + Osimertinib mesylate + Pemetrexed disodium,16
+2,Abemaciclib + Letrozole,16
+3,Levetiracetam + Pantoprazole sodium + Topiramate,16
+2,Anastrozole + Ribociclib succinate,15
+2,Dapagliflozin + Metformin hydrochloride,15
+2,Cisplatin + Pemetrexed disodium,14
+2,Carboplatin + Etoposide,14
+2,Clonidine hydrochloride + Morphine sulfate,14
+2,Prednisone + Voclosporin,13
+4,Methylprednisolone + Mycophenolate mofetil + Prednisolone + Tacrolimus,13
+2,Dexamethasone + Lenalidomide,12
+2,Mycophenolate mofetil + Voclosporin,12
+2,Prednisolone + Tacrolimus,11
+2,Cisplatin + Fluorouracil,11
+3,Aspirin + Clopidogrel bisulfate + Rosuvastatin calcium,11
+3,Basiliximab + Everolimus + Tacrolimus,10
+2,Diclofenac sodium + Methotrexate sodium,10
+4,Carboplatin + Cyclophosphamide + Doxorubicin hydrochloride + Paclitaxel,9
+2,Capecitabine + Oxaliplatin,9
+4,Carboplatin + Cyclophosphamide + Epirubicin hydrochloride + Paclitaxel,8
+2,Carfilzomib + Dexamethasone,8
+4,Hydroxychloroquine sulfate + Mycophenolate mofetil + Prednisone + Voclosporin,8
+2,Cisplatin + Paclitaxel,8
+3,Apixaban + Carboplatin + Paclitaxel,8
+2,Inclisiran sodium + Rosuvastatin calcium,8
+2,Lorazepam + Propafenone hydrochloride,8
+2,Acetaminophen + Levofloxacin,8
+4,Fluorouracil + Lamotrigine + Leucovorin calcium + Oxaliplatin,8
+2,Eplerenone + Metformin hydrochloride,8
+3,Acetaminophen + Rosuvastatin calcium + Vancomycin hydrochloride,8
+3,Capecitabine + Trastuzumab + Tucatinib,7
+4,Bisoprolol fumarate + Metformin hydrochloride + Spironolactone + Valsartan,7
+4,Lisinopril + Metformin hydrochloride + Rosuvastatin calcium + Semaglutide,7
+3,Dapagliflozin + Furosemide + Spironolactone,7
+2,Gemcitabine hydrochloride + Oxaliplatin,7
+4,Diclofenac sodium + Febuxostat + Prednisolone + Pregabalin,7
+4,Allopurinol + Amlodipine besylate + Paroxetine hydrochloride + Pemetrexed disodium,7
+2,Osimertinib mesylate + Pemetrexed disodium,7
+3,Bleomycin sulfate + Cisplatin + Etoposide,7
+4,Amikacin sulfate + Aripiprazole + Ceftriaxone sodium + Oxazepam,7
+3,Bortezomib + Cyclophosphamide + Dexamethasone,7
+2,Atorvastatin calcium + Telmisartan,7
+3,Aspirin + Mycophenolate mofetil + Tacrolimus,7
+3,Ibuprofen + Nifedipine + Rosuvastatin calcium,7
+2,Fulvestrant + Ribociclib succinate,6
+3,Everolimus + Prednisone + Tacrolimus,6
+2,Levothyroxine sodium + Metformin hydrochloride,6
+2,Binimetinib + Encorafenib,6
+4,Amlodipine besylate + Atenolol + Duloxetine hydrochloride + Tamsulosin hydrochloride,6
+3,Basiliximab + Mycophenolate mofetil + Tacrolimus,6
+2,Sirolimus + Tacrolimus,6
+2,Adalimumab + Methotrexate sodium,6
+3,Empagliflozin + Metformin hydrochloride + Spironolactone,6
+4,Everolimus + Lenvatinib mesylate + Rivaroxaban + Tinzaparin sodium,6
+3,Bupropion hydrochloride + Mirtazapine + Quetiapine fumarate,6
+3,Cortisone acetate + Rosuvastatin calcium + Varenicline tartrate,6
+2,Dabrafenib mesylate + Trametinib dimethyl sulfoxide,6
+4,Clozapine + Folic acid + Risperidone + Sertraline hydrochloride,6
+2,Fulvestrant + Palbociclib,6
+3,Amlodipine besylate + Canagliflozin + Rosuvastatin calcium,6
+4,Adalimumab + Brivaracetam + Furosemide + Lacosamide,6
+3,Amantadine hydrochloride + Ibuprofen + Montelukast sodium,6
+3,Dapagliflozin + Metformin hydrochloride + Semaglutide,6
+3,Anastrozole + Metformin hydrochloride + Ribociclib succinate,6
+3,Indapamide + Metformin hydrochloride + Ramipril,5
+2,Cyclophosphamide + Fludarabine phosphate,5
+3,Cyclosporine + Mycophenolate mofetil + Prednisolone,5
+2,Belzutifan + Lenvatinib mesylate,5
+2,Dapagliflozin + Irbesartan,5
+2,Dexamethasone + Pomalidomide,5
+2,Aspirin + Lenalidomide,5
+3,Cytarabine + Methotrexate sodium + Thiotepa,5
+2,Carboplatin + Gemcitabine hydrochloride,5
+2,Albuterol + Prednisone,5
+4,Fluorouracil + Irinotecan hydrochloride + Leucovorin calcium + Oxaliplatin,5
+2,Colchicine + Ibuprofen,5
+4,Amlodipine besylate + Felodipine + Nebivolol hydrochloride + Valsartan,5
+2,Methotrexate sodium + Prednisone,5
+3,Amphotericin B + Micafungin sodium + Posaconazole,5
+2,Acetaminophen + Clindamycin phosphate,5
+2,Fluoxetine hydrochloride + Lamotrigine,5
+2,Acetaminophen + Micafungin sodium,5
+2,Leflunomide + Methotrexate sodium,5
+3,Eplerenone + Furosemide + Metformin hydrochloride,5
+4,Basiliximab + Mycophenolate mofetil + Prednisone + Tacrolimus,5
+2,Dolutegravir sodium + Lamivudine,5
+2,Macitentan + Tadalafil,5
+2,Celecoxib + Diclofenac sodium,5
+4,Atorvastatin calcium + Cyclosporine + Losartan potassium + Mycophenolate mofetil,5
+4,Cefepime hydrochloride + Colchicine + Lansoprazole + Tamsulosin hydrochloride,5
+3,Cyclophosphamide + Fludarabine phosphate + Venetoclax,5
+4,Amiloride hydrochloride + Indapamide + Spironolactone + Venlafaxine hydrochloride,5
+3,Duloxetine hydrochloride + Ivabradine hydrochloride + Propranolol hydrochloride,5
+4,Aspirin + Metformin hydrochloride + Metoprolol succinate + Sitagliptin phosphate,5
+3,Ezetimibe + Rosuvastatin calcium + Semaglutide,5
+3,Cisplatin + Docetaxel + Fluorouracil,5
+2,Diltiazem hydrochloride + Tramadol hydrochloride,5
+2,Bisoprolol fumarate + Timolol maleate,5
+2,Cyclosporine + Tacrolimus,5
+3,Carboplatin + Dexamethasone + Etoposide,5
+4,Azathioprine + Methotrexate sodium + Methylprednisolone + Prednisolone,5
+3,Empagliflozin + Fenofibrate + Omeprazole,5
+4,Methylprednisolone + Mycophenolate mofetil + Prednisone + Tacrolimus,5
+2,Empagliflozin + Finerenone,5
+3,Bevacizumab + Carboplatin + Pemetrexed disodium,4
+3,Goserelin acetate + Letrozole + Ribociclib succinate,4
+4,Mycophenolate mofetil + Prednisone + Sirolimus + Tacrolimus,4
+2,Ribociclib succinate + Zoledronic acid,4
+3,Adalimumab + Azathioprine + Infliximab,4
+4,Bortezomib + Dexamethasone + Lenalidomide + Thalidomide,4
+3,Fluorouracil + Irinotecan hydrochloride + Leucovorin calcium,4
+2,Metformin hydrochloride + Semaglutide,4
+3,Macitentan + Selexipag + Tadalafil,4
+2,Atorvastatin calcium + Voclosporin,4
+2,Dapagliflozin + Ramipril,4
+3,Carboplatin + Cisplatin + Pemetrexed disodium,4
+4,Ceftaroline fosamil + Daptomycin + Gabapentin + Omeprazole,4
+2,Azathioprine + Methotrexate sodium,4
+3,Furosemide + Hydrochlorothiazide + Metformin hydrochloride,4
+4,Eslicarbazepine acetate + Folic acid + Phenobarbital sodium + Topiramate,4
+2,Atorvastatin calcium + Daptomycin,4
+4,Cyclophosphamide + Doxorubicin hydrochloride + Prednisone + Vincristine sulfate,4
+4,Folic acid + Metformin hydrochloride + Methotrexate sodium + Paclitaxel,4
+2,Methylprednisolone + Tacrolimus,4
+3,Abiraterone acetate + Leuprolide acetate + Prednisolone,4
+4,Bevacizumab + Carboplatin + Cisplatin + Paclitaxel,4
+2,Cyclosporine + Prednisolone,4
+2,Carbamazepine + Levothyroxine sodium,4
+2,Corticotropin + Prednisone,4
+4,Basiliximab + Mycophenolate mofetil + Tacrolimus + Valganciclovir hydrochloride,4
+2,Furosemide + Spironolactone,4
+2,Infliximab + Methotrexate sodium,4
+2,Amphotericin B + Fluconazole,4
+3,Docetaxel + Fluorouracil + Oxaliplatin,4
+2,Amlodipine besylate + Losartan potassium,4
+2,Abiraterone acetate + Prednisone,4
+2,Lansoprazole + Valsartan,4
+2,Ketorolac tromethamine + Ondansetron hydrochloride,4
+2,Bevacizumab + Paclitaxel,4
+4,Cetuximab + Encorafenib + Fluorouracil + Oxaliplatin,4
+4,Cyclosporine + Furosemide + Mycophenolate mofetil + Tacrolimus,4
+3,Carfilzomib + Dexamethasone + Flecainide acetate,4
+3,Mycophenolate mofetil + Sirolimus + Tacrolimus,4
+4,Bisoprolol fumarate + Empagliflozin + Furosemide + Telmisartan,4
+3,Binimetinib + Encorafenib + Metformin hydrochloride,4
+2,Acyclovir + Fluconazole,4
+4,Acetaminophen + Metformin hydrochloride + Nilotinib hydrochloride + Semaglutide,4
+3,Empagliflozin + Lisinopril + Semaglutide,4
+2,Lamotrigine + Topiramate,4
+3,Nystatin + Tacrolimus + Valganciclovir hydrochloride,4
+2,Acetaminophen + Rosuvastatin calcium,4
+3,Dapagliflozin + Metformin hydrochloride + Rosuvastatin calcium,4
+2,Adalimumab + Mesalamine,3
+3,Adalimumab + Leflunomide + Prednisone,3
+3,Letrozole + Palbociclib + Zoledronic acid,3
+3,Asciminib hydrochloride + Dasatinib + Imatinib mesylate,3
+2,Docetaxel + Trastuzumab,3
+2,Azacitidine + Venetoclax,3
+4,Acetaminophen + Diphenhydramine hydrochloride + Methylprednisolone + Prednisone,3
+2,Bisoprolol fumarate + Ramipril,3
+2,Metformin hydrochloride + Ribociclib succinate,3
+3,Mycophenolate mofetil + Prednisone + Voclosporin,3
+2,Empagliflozin + Semaglutide,3
+2,Aspirin + Levothyroxine sodium,3
+2,Acetaminophen + Oxycodone hydrochloride,3
+3,Acetaminophen + Diphenhydramine hydrochloride + Methylprednisolone,3
+2,Axitinib + Lenvatinib mesylate,3
+3,Macitentan + Riociguat + Selexipag,3
+2,Bevacizumab + Lenvatinib mesylate,3
+3,Hydroxychloroquine sulfate + Mycophenolate mofetil + Prednisone,3
+2,Bevacizumab + Doxorubicin hydrochloride,3
+2,Macitentan + Riociguat,3
+2,Capecitabine + Temozolomide,3
+3,Bevacizumab + Cisplatin + Paclitaxel,3
+2,Rosuvastatin calcium + Ticagrelor,3
+3,Ethacrynic acid + Mycophenolate mofetil + Voclosporin,3
+2,Lisinopril + Voclosporin,3
+4,Binimetinib + Encorafenib + Prednisone + Ramipril,3
+2,Amphotericin B + Isavuconazonium sulfate,3
+2,Doxycycline + Metformin hydrochloride,3
+3,Gabapentin + Ibuprofen + Morphine sulfate,3
+2,Budesonide + Sulfasalazine,3
+3,Carboplatin + Cisplatin + Gemcitabine hydrochloride,3
+2,Corticotropin + Empagliflozin,3
+3,Bevacizumab + Ciprofloxacin hydrochloride + Thiamine hydrochloride,3
+2,Mycophenolate mofetil + Prednisolone,3
+2,Lisinopril + Tolvaptan,3
+2,Mycophenolate mofetil + Valganciclovir hydrochloride,3
+4,Anakinra + Cyclophosphamide + Dexamethasone + Fludarabine phosphate,3
+4,Cyclosporine + Enalapril maleate + Febuxostat + Simvastatin,3
+2,Posaconazole + Vancomycin hydrochloride,3
+4,Everolimus + Methylprednisolone + Mycophenolate mofetil + Tacrolimus,3
+4,Lorazepam + Olanzapine + Pregabalin + Venlafaxine hydrochloride,3
+2,Carfilzomib + Lenalidomide,3
+3,Cyclophosphamide + Doxorubicin hydrochloride + Prednisone,3
+3,Cisplatin + Gemcitabine hydrochloride + Methylprednisolone,3
+3,Mycophenolate mofetil + Prednisone + Sulfasalazine,3
+3,Carboplatin + Pemetrexed disodium + Simvastatin,3
+4,Abemaciclib + Anastrozole + Goserelin acetate + Metformin hydrochloride,3
+4,Ganciclovir sodium + Mycophenolate mofetil + Prednisone + Tacrolimus,3
+4,Colchicine + Hydroxychloroquine sulfate + Ibuprofen + Levothyroxine sodium,3
+2,Bortezomib + Dexamethasone,3
+2,Furosemide + Telmisartan,3
+2,Cytarabine + Methotrexate sodium,3
+3,Clozapine + Risperidone + Sertraline hydrochloride,3
+2,Amoxicillin + Metformin hydrochloride,3
+2,Mercaptopurine + Methotrexate sodium,3
+2,Ezetimibe + Rosuvastatin calcium,3
+4,Carboplatin + Cisplatin + Gemcitabine hydrochloride + Paclitaxel,3
+4,Bortezomib + Cyclophosphamide + Dexamethasone + Filgrastim,3
+3,Aspirin + Methylprednisolone + Prednisolone,3
+3,Bortezomib + Dexamethasone + Thalidomide,3
+2,Ciprofloxacin hydrochloride + Daptomycin,3
+2,Lansoprazole + Olanzapine,3
+3,Divalproex sodium + Paroxetine hydrochloride + Quetiapine fumarate,3
+2,Bisoprolol fumarate + Furosemide,3
+3,Ampicillin sodium + Aspirin + Meropenem,3
+2,Empagliflozin + Osilodrostat phosphate,3
+4,Cetuximab + Fluorouracil + Irinotecan hydrochloride + Leucovorin calcium,3
+2,Deferasirox + Deferoxamine mesylate,3
+2,Dapagliflozin + Furosemide,3
+4,Abiraterone acetate + Apixaban + Bisoprolol fumarate + Prednisone,3
+2,Atorvastatin calcium + Clopidogrel bisulfate,3
+2,Brivaracetam + Lamotrigine,3
+3,Bevacizumab + Capecitabine + Oxaliplatin,3
+3,Hydralazine hydrochloride + Hydrochlorothiazide + Losartan potassium,3
+2,Diclofenac sodium + Vancomycin hydrochloride,3
+2,Ceftriaxone sodium + Diclofenac sodium,3
+2,Cefazolin sodium + Cisplatin,3
+2,Esomeprazole sodium + Naproxen,3
+4,Cycloserine + Levofloxacin + Linezolid + Pyrazinamide,3
+2,Diltiazem hydrochloride + Verapamil hydrochloride,3
+3,Adalimumab + Celecoxib + Lansoprazole,3
+2,Ibuprofen + Vancomycin hydrochloride,3
+4,Ciprofloxacin hydrochloride + Losartan potassium + Omeprazole + Pregabalin,3
+3,Methylprednisolone + Mycophenolate mofetil + Tacrolimus,3
+4,Lisinopril + Mycophenolate mofetil + Prednisone + Voclosporin,3
+2,Levothyroxine sodium + Raltegravir potassium,3
+4,Alfuzosin hydrochloride + Atorvastatin calcium + Diazepam + Metformin hydrochloride,3
+4,Aspirin + Metoclopramide hydrochloride + Progesterone + Sertraline hydrochloride,3
+3,Deferasirox + Erythropoietin + Ruxolitinib phosphate,2
+2,Etanercept + Methotrexate sodium,2
+3,Amlodipine besylate + Atorvastatin calcium + Metformin hydrochloride,2
+4,Adalimumab + Leflunomide + Olmesartan medoxomil + Prednisone,2
+2,Entecavir + Tenofovir disoproxil fumarate,2
+4,Desmopressin acetate + Hydrocortisone acetate + Levetiracetam + Levothyroxine sodium,2
+2,Atorvastatin calcium + Imatinib mesylate,2
+2,Letrozole + Palbociclib,2
+3,Metformin hydrochloride + Nebivolol hydrochloride + Omeprazole,2
+3,Hydroxychloroquine sulfate + Mycophenolate mofetil + Prednisolone,2
+4,Cefuroxime sodium + Famotidine + Ondansetron hydrochloride + Pantoprazole sodium,2
+3,Letrozole + Ribociclib succinate + Zoledronic acid,2
+3,Levetiracetam + Olanzapine + Sertraline hydrochloride,2
+3,Fenofibrate + Lorlatinib + Rosuvastatin calcium,2
+4,Fulvestrant + Letrozole + Losartan potassium + Ribociclib succinate,2
+4,Esomeprazole sodium + Fenofibrate + Metformin hydrochloride + Simvastatin,2
+2,Abemaciclib + Loperamide hydrochloride,2
+2,Ezetimibe + Inclisiran sodium,2
+3,Cyclophosphamide + Methylprednisolone + Prednisone,2
+2,Cefepime hydrochloride + Meropenem,2
+2,Pantoprazole sodium + Prednisone,2
+3,Atorvastatin calcium + Metformin hydrochloride + Ramipril,2
+3,Fulvestrant + Ribociclib succinate + Zoledronic acid,2
+3,Acetaminophen + Dexamethasone + Diphenhydramine hydrochloride,2
+2,Acyclovir + Cyclosporine,2
+3,Atorvastatin calcium + Dapagliflozin + Metformin hydrochloride,2
+3,Methotrexate sodium + Prednisolone + Upadacitinib,2
+2,Amlodipine besylate + Lenvatinib mesylate,2
+2,Atorvastatin calcium + Levothyroxine sodium,2
+2,Methotrexate sodium + Tacrolimus,2
+2,Venetoclax + Zanubrutinib,2
+3,Empagliflozin + Metformin hydrochloride + Semaglutide,2
+2,Albuterol + Montelukast sodium,2
+4,Empagliflozin + Nebivolol hydrochloride + Nitroglycerin + Sitagliptin phosphate,2
+2,Atorvastatin calcium + Ezetimibe,2
+2,Atorvastatin calcium + Omeprazole,2
+2,Abemaciclib + Anastrozole,2
+4,Letrozole + Leuprolide acetate + Ribociclib succinate + Zoledronic acid,2
+2,Budesonide + Semaglutide,2
+2,Levothyroxine sodium + Semaglutide,2
+2,Azathioprine + Infliximab,2
+2,Cyclosporine + Omalizumab,2
+2,Ramipril + Ustekinumab,2
+2,Methotrexate sodium + Upadacitinib,2
+3,Ciprofloxacin hydrochloride + Methotrexate sodium + Zoledronic acid,2
+3,Amlodipine besylate + Duloxetine hydrochloride + Pregabalin,2
+2,Darolutamide + Relugolix,2
+4,Ezetimibe + Lansoprazole + Pemetrexed disodium + Ramipril,2
+4,Olanzapine + Oxazepam + Quetiapine fumarate + Sertraline hydrochloride,2
+2,Clarithromycin + Simvastatin,2
+2,Abatacept + Methotrexate sodium,2
+4,Carboplatin + Osimertinib mesylate + Paroxetine hydrochloride + Pemetrexed disodium,2
+4,Allopurinol + Bromfenac sodium + Methylprednisolone + Timolol maleate,2
+3,Atorvastatin calcium + Bempedoic acid + Ezetimibe,2
+2,Cisplatin + Etoposide,2
+4,Chlorambucil + Clarithromycin + Ethambutol hydrochloride + Rifampin,2
+2,Amlodipine besylate + Valsartan,2
+2,Aspirin + Enoxaparin sodium,2
+3,Cisplatin + Cyclophosphamide + Doxorubicin hydrochloride,2
+4,Atorvastatin calcium + Empagliflozin + Metformin hydrochloride + Sitagliptin phosphate,2
+3,Abemaciclib + Acetaminophen + Ibuprofen,2
+4,Albuterol + Metoprolol succinate + Mirtazapine + Topiramate,2
+2,Bupropion hydrochloride + Fluoxetine hydrochloride,2
+2,Bumetanide + Voclosporin,2
+3,Carboplatin + Methylprednisolone + Prednisone,2
+2,Pimavanserin tartrate + Quetiapine fumarate,2
+3,Dacarbazine + Doxorubicin hydrochloride + Vinblastine sulfate,2
+4,Basiliximab + Cyclosporine + Everolimus + Tacrolimus,2
+4,Amphotericin B + Metronidazole + Nafcillin sodium + Voriconazole,2
+2,Amlodipine besylate + Ramipril,2
+4,Dexamethasone + Fenofibrate + Losartan potassium + Remdesivir,2
+2,Empagliflozin + Furosemide,2
+3,Cyclophosphamide + Etoposide + Filgrastim,2
+2,Golimumab + Methotrexate sodium,2
+4,Amitriptyline hydrochloride + Diphenhydramine hydrochloride + Metoclopramide hydrochloride + Rizatriptan benzoate,2
+3,Azacitidine + Cyclosporine + Venetoclax,2
+3,Hydroxychloroquine sulfate + Methylprednisolone + Mycophenolate mofetil,2
+2,Amlodipine besylate + Rosuvastatin calcium,2
+2,Aspirin + Ticagrelor,2
+2,Atazanavir sulfate + Ritonavir,2
+2,Amphotericin B + Posaconazole,2
+3,Amphotericin B + Meropenem + Voriconazole,2
+4,Dapagliflozin + Lisinopril + Losartan potassium + Metoprolol succinate,2
+3,Albuterol + Letrozole + Ribociclib succinate,2
+2,Imatinib mesylate + Nilotinib hydrochloride,2
+2,Dapagliflozin + Semaglutide,2
+2,Meropenem + Vancomycin hydrochloride,2
+2,Levofloxacin + Rifampin,2
+4,Anastrozole + Linezolid + Meropenem + Micafungin sodium,2
+4,Allopurinol + Bisoprolol fumarate + Ibuprofen + Semaglutide,2
+2,Amphotericin B + Itraconazole,2
+2,Baclofen + Meropenem,2
+2,Cisplatin + Doxorubicin hydrochloride,2
+2,Clopidogrel bisulfate + Rivaroxaban,2
+4,Amikacin sulfate + Cyclosporine + Fludarabine phosphate + Mycophenolate mofetil,2
+2,Cyclophosphamide + Epirubicin hydrochloride,2
+2,Abaloparatide + Teriparatide acetate,2
+2,Carbamazepine + Ceftriaxone sodium,2
+4,Amlodipine besylate + Apixaban + Atorvastatin calcium + Valsartan,2
+2,Diclofenac sodium + Metformin hydrochloride,2
+2,Methylprednisolone + Prednisolone,2
+3,Carboplatin + Paclitaxel + Pregabalin,2
+2,Escitalopram oxalate + Oxazepam,2
+2,Daptomycin + Vancomycin hydrochloride,2
+2,Azathioprine + Prednisone,2
+4,Ceftazidime + Ceftriaxone sodium + Ciprofloxacin hydrochloride + Vancomycin hydrochloride,2
+3,Clonazepam + Esomeprazole sodium + Oxazepam,2
+4,Folic acid + Paroxetine hydrochloride + Ribociclib succinate + Zoledronic acid,2
+2,Cisplatin + Sodium thiosulfate,2
+2,Febuxostat + Rosuvastatin calcium,2
+4,Esomeprazole sodium + Moxifloxacin hydrochloride + Oseltamivir phosphate + Voriconazole,2
+2,Lenvatinib mesylate + Levothyroxine sodium,2
+3,Atorvastatin calcium + Furosemide + Omeprazole,2
+2,Everolimus + Tacrolimus,2
+2,Lamotrigine + Levetiracetam,2
+3,Bevacizumab + Cisplatin + Pemetrexed disodium,2
+2,Hydroxychloroquine sulfate + Voclosporin,2
+4,Captopril + Furosemide + Spironolactone + Valsartan,2
+4,Amlodipine besylate + Nebivolol hydrochloride + Nifedipine + Valsartan,2
+3,Mycophenolate mofetil + Tacrolimus + Valganciclovir hydrochloride,2
+4,Bisoprolol fumarate + Dapagliflozin + Rivaroxaban + Spironolactone,2
+2,Carfilzomib + Pomalidomide,2
+4,Amlodipine besylate + Droperidol + Hydralazine hydrochloride + Ketamine hydrochloride,2
+4,Amphotericin B + Azathioprine + Cyclosporine + Prednisolone,2
+2,Acyclovir + Rasburicase,2
+4,Fluorouracil + Irinotecan hydrochloride + Leucovorin calcium + Panitumumab,2
+3,Carboplatin + Cisplatin + Etoposide,2
+4,Atorvastatin calcium + Hydrochlorothiazide + Olmesartan medoxomil + Sertraline hydrochloride,2
+2,Posaconazole + Venetoclax,2
+2,Alectinib hydrochloride + Brigatinib,2
+2,Cyclosporine + Eltrombopag olamine,2
+4,Atorvastatin calcium + Furosemide + Omeprazole + Zoledronic acid,2
+3,Abiraterone acetate + Apixaban + Prednisone,2
+2,Ofloxacin + Vancomycin hydrochloride,2
+3,Allopurinol + Bendamustine hydrochloride + Prednisolone,2
+3,Basiliximab + Prednisone + Tacrolimus,2
+2,Amoxicillin + Penicillin v potassium,2
+2,Cortisone acetate + Empagliflozin,2
+2,Enalapril maleate + Methylprednisolone,2
+4,Acyclovir + Atovaquone + Doxorubicin hydrochloride + Midodrine hydrochloride,2
+4,Cyclophosphamide + Fludarabine phosphate + Mycophenolate mofetil + Tacrolimus,2
+2,Mesalamine + Prednisone,2
+3,Cefepime hydrochloride + Cyclosporine + Fluconazole,2
+3,Carboplatin + Paclitaxel + Pemetrexed disodium,2
+3,Azathioprine + Cyclosporine + Prednisone,2
+3,Bevacizumab + Carboplatin + Gemcitabine hydrochloride,2
+2,Linezolid + Meropenem,2
+2,Liraglutide + Voclosporin,2
+3,Losartan potassium + Prednisone + Voclosporin,2
+3,Acyclovir + Furosemide + Spironolactone,2
+3,Azathioprine + Nebivolol hydrochloride + Tacrolimus,2
+4,Furosemide + Ibuprofen + Oxacillin sodium + Vancomycin hydrochloride,2
+2,Rosuvastatin calcium + Semaglutide,2
+3,Hydrochlorothiazide + Lisinopril + Metoprolol succinate,2
+3,Apixaban + Edoxaban tosylate + Warfarin sodium,2
+2,Tacrolimus + Valganciclovir hydrochloride,2
+3,Bisoprolol fumarate + Furosemide + Pantoprazole sodium,2
+4,Enoxaparin sodium + Hydroxychloroquine sulfate + Prednisolone + Tacrolimus,2
+2,Amoxicillin + Vancomycin hydrochloride,2
+4,Methylprednisolone + Mycophenolate mofetil + Tacrolimus + Valganciclovir hydrochloride,2
+2,Hydrocortisone acetate + Metyrapone,2
+2,Doxorubicin hydrochloride + Ifosfamide,2
+2,Flecainide acetate + Lacosamide,2
+2,Dolutegravir sodium + Ritonavir,2
+2,Cyclosporine + Diltiazem hydrochloride,2
+3,Folic acid + Methotrexate sodium + Omeprazole,2
+3,Allopurinol + Aspirin + Ramipril,2
+3,Amiodarone hydrochloride + Lidocaine + Metoprolol succinate,2
+4,Levofloxacin + Midazolam hydrochloride + Norepinephrine bitartrate + Omeprazole,2
+2,Ibuprofen + Losartan potassium,2
+2,Acetaminophen + Diazepam,2
+2,Deferasirox + Ursodiol,2
+2,Lacosamide + Ondansetron hydrochloride,2
+2,Ambrisentan + Riociguat,2
+4,Letrozole + Metformin hydrochloride + Ribociclib succinate + Verapamil hydrochloride,2
+4,Docetaxel + Fluorouracil + Leucovorin calcium + Oxaliplatin,2
+3,Bisoprolol fumarate + Finerenone + Rosuvastatin calcium,2
+2,Adalimumab + Ibuprofen,2
+2,Dapagliflozin + Vibegron,2
+4,Amlodipine besylate + Empagliflozin + Lisinopril + Metformin hydrochloride,2
+2,Imatinib mesylate + Rosuvastatin calcium,2
+2,Dolutegravir sodium + Doravirine,2
+3,Carboplatin + Paclitaxel + Valganciclovir hydrochloride,2
+3,Anastrozole + Cephalexin + Ribociclib succinate,2
+2,Aspirin + Rosuvastatin calcium,2
+2,Osimertinib mesylate + Tepotinib hydrochloride,2
+4,Celecoxib + Oxycodone hydrochloride + Pregabalin + Vancomycin hydrochloride,2
+3,Calcitriol + Ergocalciferol + Levothyroxine sodium,2
+2,Fluorouracil + Mitomycin,2
+4,Ambrisentan + Cyclophosphamide + Cyclosporine + Prednisone,2
+3,Fulvestrant + Metoprolol succinate + Palbociclib,2
+3,Fulvestrant + Letrozole + Ribociclib succinate,2
+3,Cetuximab + Encorafenib + Oxaliplatin,2
+3,Furosemide + Ranitidine hydrochloride + Vancomycin hydrochloride,2
+2,Omeprazole + Vancomycin hydrochloride,2
+2,Canagliflozin + Metformin hydrochloride,2
+2,Loxapine succinate + Risperidone,2
+2,Edaravone + Furosemide,2
+3,Ceftriaxone sodium + Ciprofloxacin hydrochloride + Metronidazole,2
+2,Trimethoprim + Ustekinumab,2
+2,Bortezomib + Rivaroxaban,2
+2,Pantoprazole sodium + Zoledronic acid,2
+3,Bumetanide + Metoclopramide hydrochloride + Ondansetron hydrochloride,2
+3,Eculizumab + Prednisone + Tacrolimus,2
+4,Cyclosporine + Dapsone + Omalizumab + Prednisolone,2
+4,Cyclosporine + Everolimus + Tacrolimus + Valganciclovir hydrochloride,2
+4,Clarithromycin + Enalapril maleate + Metformin hydrochloride + Simvastatin,2
+3,Clindamycin phosphate + Epinephrine + Norepinephrine bitartrate,2
+3,Polymyxin b sulfate + Tigecycline + Vancomycin hydrochloride,2
+4,Amlodipine besylate + Glimepiride + Metformin hydrochloride + Rosuvastatin calcium,2
+2,Atorvastatin calcium + Darolutamide,2
+2,Enalapril maleate + Spironolactone,2
+4,Fluorouracil + Leucovorin calcium + Olanzapine + Oxaliplatin,2
+3,Acyclovir + Ciprofloxacin hydrochloride + Losartan potassium,2
+3,Dapagliflozin + Mycophenolate mofetil + Valsartan,2
+2,Hydralazine hydrochloride + Levothyroxine sodium,2
+3,Acyclovir + Propofol + Remifentanil hydrochloride,2
+2,Leucovorin calcium + Methotrexate sodium,2
+3,Cyclosporine + Deflazacort + Valsartan,2
+4,Bevacizumab + Capecitabine + Gemcitabine hydrochloride + Sorafenib tosylate,1
+2,Bevacizumab + Temozolomide,1
+4,Furosemide + Glipizide + Metformin hydrochloride + Spironolactone,1
+3,Basiliximab + Mycophenolate mofetil + Prednisone,1
+2,Alprazolam + Tramadol hydrochloride,1
+4,Aspirin + Celecoxib + Fexofenadine hydrochloride + Zolpidem tartrate,1
+4,Basiliximab + Mycophenolate mofetil + Prednisone + Valganciclovir hydrochloride,1
+2,Ibuprofen + Tenofovir disoproxil fumarate,1
+2,Enzalutamide + Furosemide,1
+4,Adalimumab + Bisoprolol fumarate + Mesalamine + Sertraline hydrochloride,1
+3,Ciprofloxacin hydrochloride + Enalapril maleate + Ibuprofen,1
+3,Crizotinib + Letrozole + Palbociclib,1
+4,Cyclophosphamide + Doxorubicin hydrochloride + Paclitaxel + Trastuzumab,1
+2,Acyclovir + Alemtuzumab,1
+3,Allopurinol + Enoxaparin sodium + Venetoclax,1
+2,Raltegravir potassium + Tamoxifen citrate,1
+2,Ibuprofen + Leuprolide acetate,1
+4,Levothyroxine sodium + Raloxifene hydrochloride + Teriparatide acetate + Zoledronic acid,1
+3,Imatinib mesylate + Norepinephrine bitartrate + Sotalol hydrochloride,1
+2,Methotrexate sodium + Tofacitinib citrate,1
+2,Acetaminophen + Aspirin,1
+3,Levofloxacin + Meropenem + Tacrolimus,1
+3,Diclofenac sodium + Quetiapine fumarate + Zolpidem tartrate,1
+3,Hydroxychloroquine sulfate + Mycophenolate mofetil + Venlafaxine hydrochloride,1
+3,Alemtuzumab + Interferon beta-1a + Natalizumab,1
+2,Rivaroxaban + Sildenafil citrate,1
+3,Cefazolin sodium + Prednisolone + Sunitinib malate,1
+2,Hydroxychloroquine sulfate + Tofacitinib citrate,1
+2,Diltiazem hydrochloride + Octreotide acetate,1
+2,Levothyroxine sodium + Pexidartinib hydrochloride,1
+2,Acetaminophen + Calcium acetate,1
+2,"Cyclosporine + Estrogens, conjugated",1
+3,Bortezomib + Clozapine + Dexamethasone,1
+3,Acetaminophen + Prednisone + Trimethoprim,1
+4,Defibrotide sodium + Midazolam hydrochloride + Norepinephrine bitartrate + Ursodiol,1
+3,Atorvastatin calcium + Cenobamate + Levetiracetam,1
+3,Alglucosidase alfa + Diphenhydramine hydrochloride + Methotrexate sodium,1
+4,Itraconazole + Mycophenolate mofetil + Prednisone + Tacrolimus,1
+2,Doxycycline + Levothyroxine sodium,1
+3,Fulvestrant + Palbociclib + Pregabalin,1
+3,Cisplatin + Etoposide + Oxycodone hydrochloride,1
+2,Furosemide + Tamsulosin hydrochloride,1
+4,Acetaminophen + Amoxicillin + Bevacizumab + Oseltamivir phosphate,1
+2,Paclitaxel + Trastuzumab,1
+2,Dexamethasone + Rivaroxaban,1
+4,Letrozole + Lorazepam + Palbociclib + Zoledronic acid,1
+3,Cyclophosphamide + Cyclosporine + Dexamethasone,1
+3,Febuxostat + Letrozole + Palbociclib,1
+3,Amlodipine besylate + Lubiprostone + Telmisartan,1
+3,Aspirin + Fluconazole + Nitrofurantoin,1
+3,Aspirin + Ibuprofen + Naproxen,1
+4,Folic acid + Letrozole + Levothyroxine sodium + Palbociclib,1
+2,Imatinib mesylate + Sunitinib malate,1
+2,Loratadine + Ofatumumab,1
+3,Alendronate sodium + Exemestane + Palbociclib,1
+2,Fluoxetine hydrochloride + Ruxolitinib phosphate,1
+2,Methotrexate sodium + Rosuvastatin calcium,1
+4,Amlodipine besylate + Prednisolone + Risdiplam + Sodium bicarbonate,1
+4,Alendronate sodium + Carboplatin + Paclitaxel + Valsartan,1
+3,Calcitriol + Fulvestrant + Palbociclib,1
+4,Atorvastatin calcium + Lorlatinib + Rosuvastatin calcium + Telmisartan,1
+3,Calcitriol + Ceftriaxone sodium + Oseltamivir phosphate,1
+4,Hydromorphone hydrochloride + Lisinopril + Metoprolol succinate + Midodrine hydrochloride,1
+3,Amitriptyline hydrochloride + Botulinum toxin type a + Topiramate,1
+2,Adalimumab + Canakinumab,1
+2,Febuxostat + Lorlatinib,1
+3,Clindamycin phosphate + Gabapentin + Tolterodine tartrate,1
+2,Ibrutinib + Leuprolide acetate,1
+4,Leflunomide + Lidocaine + Tacrolimus + Valganciclovir hydrochloride,1
+3,Exemestane + Letrozole + Ribociclib succinate,1
+3,Hydrocortisone acetate + Oxcarbazepine + Vibegron,1
+3,Ibuprofen + Quetiapine fumarate + Venlafaxine hydrochloride,1
+2,Lenvatinib mesylate + Zoledronic acid,1
+4,Adalimumab + Azathioprine + Mycophenolate mofetil + Tacrolimus,1
+2,Acalabrutinib + Lenalidomide,1
+3,Adalimumab + Infliximab + Mesalamine,1
+2,Albuterol + Inclisiran sodium,1
+4,Colchicine + Hydroxychloroquine sulfate + Ibuprofen + Pantoprazole sodium,1
+4,Dexmedetomidine hydrochloride + Etomidate + Labetalol hydrochloride + Propofol,1
+4,Calcium acetate + Folic acid + Letrozole + Palbociclib,1
+2,Oxazepam + Rosuvastatin calcium,1
+4,Calcium acetate + Infliximab + Pantoprazole sodium + Prednisone,1
+4,Cyanocobalamin + Lorazepam + Lorlatinib + Rosuvastatin calcium,1
+2,Apixaban + Lamivudine,1
+4,Ergocalciferol + Pantoprazole sodium + Prednisone + Sulfasalazine,1
+4,Aripiprazole + Fluoxetine hydrochloride + Lorazepam + Valbenazine tosylate,1
+4,Ergocalciferol + Famotidine + Prednisone + Trimethoprim,1
+3,Hydrocortisone acetate + Levothyroxine sodium + Sorafenib tosylate,1
+3,Hydroxychloroquine sulfate + Leflunomide + Methotrexate sodium,1
+3,Alectinib hydrochloride + Prednisone + Tepotinib hydrochloride,1
+4,Abemaciclib + Enalapril maleate + Letrozole + Loperamide hydrochloride,1
+3,Methylprednisolone + Mycophenolate mofetil + Voclosporin,1
+4,Amoxicillin + Cabozantinib s-malate + Clarithromycin + Hydrocortisone acetate,1
+4,Anastrozole + Hydrochlorothiazide + Ribociclib succinate + Zoledronic acid,1
+2,Nitrofurantoin + Siponimod,1
+3,Apixaban + Aspirin + Clopidogrel bisulfate,1
+4,Fulvestrant + Letrozole + Palbociclib + Zoledronic acid,1
+2,Ibuprofen + Isotretinoin,1
+4,Abemaciclib + Anastrozole + Ibuprofen + Loperamide hydrochloride,1
+2,Apixaban + Tadalafil,1
+4,Aspirin + Folic acid + Hydroxyurea + Ruxolitinib phosphate,1
+2,Clonazepam + Ibuprofen,1
+2,Cetirizine hydrochloride + Esomeprazole sodium,1
+2,Atorvastatin calcium + Cyanocobalamin,1
+3,Bempedoic acid + Inclisiran sodium + Nebivolol hydrochloride,1
+3,Ibuprofen + Methotrexate sodium + Naproxen,1
+4,Duloxetine hydrochloride + Lemborexant + Methylphenidate hydrochloride + Quetiapine fumarate,1
+4,Abemaciclib + Goserelin acetate + Letrozole + Loperamide hydrochloride,1
+2,Hydrochlorothiazide + Prednisone,1
+3,Cefuroxime sodium + Levothyroxine sodium + Methionine,1
+2,Levetiracetam + Metoprolol succinate,1
+2,Levothyroxine sodium + Methionine,1
+3,Cetuximab + Encorafenib + Minocycline hydrochloride,1
+4,Doxycycline + Loratadine + Modafinil + Montelukast sodium,1
+3,Hydrocortisone acetate + Metformin hydrochloride + Norepinephrine bitartrate,1
+3,Eszopiclone + Letrozole + Ribociclib succinate,1
+3,Adalimumab + Ibuprofen + Sulfasalazine,1
+2,Allopurinol + Hydrochlorothiazide,1
+4,Duloxetine hydrochloride + Gabapentin + Sodium bicarbonate + Varenicline tartrate,1
+2,Cyclosporine + Eculizumab,1
+2,Abiraterone acetate + Leuprolide acetate,1
+4,Allopurinol + Amlodipine besylate + Clonidine hydrochloride + Finerenone,1
+3,Furosemide + Inclisiran sodium + Pantoprazole sodium,1
+2,Hydrocortisone acetate + Infliximab,1
+3,Atorvastatin calcium + Irbesartan + Lenvatinib mesylate,1
+4,Amlodipine besylate + Azilsartan kamedoxomil + Bevacizumab + Nicardipine hydrochloride,1
+4,Acetaminophen + Clonazepam + Oxycodone hydrochloride + Pregabalin,1
+4,Clarithromycin + Furosemide + Pantoprazole sodium + Propofol,1
+2,Golimumab + Infliximab,1
+3,Atorvastatin calcium + Rosuvastatin calcium + Upadacitinib,1
+2,Amoxicillin + Entacapone,1
+3,Empagliflozin + Inclisiran sodium + Spironolactone,1
+2,Cefditoren pivoxil + Celecoxib,1
+2,Nifedipine + Pantoprazole sodium,1
+2,Amlodipine besylate + Finasteride,1
+3,Doxorubicin hydrochloride + Ifosfamide + Mesna,1
+3,Cyclosporine + Prednisolone + Tacrolimus,1
+3,Cyclophosphamide + Lorlatinib + Rosuvastatin calcium,1
+2,Nilotinib hydrochloride + Prednisolone,1
+2,Diltiazem hydrochloride + Diphenhydramine hydrochloride,1
+2,Hydrocortisone acetate + Rosuvastatin calcium,1
+4,Atenolol + Indapamide + Pantoprazole sodium + Prednisone,1
+3,Enoxaparin sodium + Ibuprofen + Tramadol hydrochloride,1
+3,Ceftriaxone sodium + Ketorolac tromethamine + Morphine sulfate,1
+3,Acetaminophen + Cephalexin + Upadacitinib,1
+2,Chlorthalidone + Sodium bicarbonate,1
+2,Abemaciclib + Prochlorperazine maleate,1
+3,Avacopan + Cyclophosphamide + Prednisolone,1
+4,Acetaminophen + Dexamethasone + Loperamide hydrochloride + Ondansetron hydrochloride,1
+3,Bupropion hydrochloride + Levothyroxine sodium + Prednisone,1
+3,Docetaxel + Fulvestrant + Ribociclib succinate,1
+3,Aspirin + Rosuvastatin calcium + Ticagrelor,1
+4,Certolizumab pegol + Duloxetine hydrochloride + Methotrexate sodium + Pregabalin,1
+2,Esomeprazole sodium + Ribociclib succinate,1
+2,Levetiracetam + Zonisamide,1
+2,Octreotide acetate + Omeprazole,1
+2,Acetaminophen + Zolpidem tartrate,1
+4,Diltiazem hydrochloride + Glimepiride + Prednisone + Vibegron,1
+4,Abemaciclib + Anastrozole + Dicyclomine hydrochloride + Prochlorperazine maleate,1
+3,Bicalutamide + Furosemide + Selpercatinib,1
+2,Acetaminophen + Testosterone enanthate,1
+3,Empagliflozin + Eslicarbazepine acetate + Sitagliptin phosphate,1
+4,Acetaminophen + Ibuprofen + Quetiapine fumarate + Ramipril,1
+4,Avacopan + Cyclophosphamide + Hydrocortisone acetate + Methylprednisolone,1
+3,Carboplatin + Docetaxel + Pemetrexed disodium,1
+4,Atorvastatin calcium + Ibrutinib + Levothyroxine sodium + Omeprazole,1
+2,Amlodipine besylate + Lisinopril,1
+3,Budesonide + Levothyroxine sodium + Naltrexone hydrochloride,1
+3,Lanreotide acetate + Metformin hydrochloride + Rosuvastatin calcium,1
+2,Cabozantinib s-malate + Lenvatinib mesylate,1
+4,Cannabidiol + Clobazam + Stiripentol + Topiramate,1
+2,Cabozantinib s-malate + Levothyroxine sodium,1
+4,Atorvastatin calcium + Fexofenadine hydrochloride + Metformin hydrochloride + Upadacitinib,1
+2,Divalproex sodium + Quetiapine fumarate,1
+2,Pantoprazole sodium + Semaglutide,1
+3,Amlodipine besylate + Entecavir + Lactulose,1
+2,Amlodipine besylate + Osimertinib mesylate,1
+4,Amlodipine besylate + Omeprazole + Rosuvastatin calcium + Semaglutide,1
+2,Avacopan + Prednisolone,1
+2,Bumetanide + Edoxaban tosylate,1
+3,Cisplatin + Gemcitabine hydrochloride + Prednisolone,1
+4,Allopurinol + Metoprolol succinate + Nifedipine + Tamsulosin hydrochloride,1
+2,Liraglutide + Semaglutide,1
+2,Amlodipine besylate + Memantine hydrochloride,1
+4,Avacopan + Cyclophosphamide + Methylprednisolone + Prednisolone,1
+3,Amlodipine besylate + Hydrochlorothiazide + Semaglutide,1
+3,Febuxostat + Fluconazole + Prednisolone,1
+4,Meropenem + Minocycline hydrochloride + Polymyxin b sulfate + Vancomycin hydrochloride,1
+4,Acetaminophen + Ibuprofen + Levothyroxine sodium + Lorazepam,1
+3,Axitinib + Dexamethasone + Lenvatinib mesylate,1
+4,Amoxicillin + Letrozole + Ribociclib succinate + Simvastatin,1
+4,Cannabidiol + Diazepam + Levocarnitine + Zonisamide,1
+3,Interferon beta-1a + Midazolam hydrochloride + Prednisone,1
+3,Cytarabine + Lubiprostone + Methotrexate sodium,1
+4,Carvedilol + Deferasirox + Deferiprone + Rosuvastatin calcium,1
+4,Acyclovir + Amlodipine besylate + Ponatinib hydrochloride + Rosuvastatin calcium,1
+3,Apalutamide + Leuprolide acetate + Meropenem,1
+3,Ezetimibe + Rosuvastatin calcium + Sertraline hydrochloride,1
+3,Cannabidiol + Clobazam + Felbamate,1
+4,Loratadine + Norethindrone acetate + Progesterone + Semaglutide,1
+4,Acetaminophen + Fondaparinux sodium + Methylprednisolone + Pregabalin,1
+3,Empagliflozin + Levothyroxine sodium + Losartan potassium,1
+2,Dimenhydrinate + Diphenhydramine hydrochloride,1
+3,Finerenone + Levothyroxine sodium + Losartan potassium,1
+3,Diltiazem hydrochloride + Epinephrine + Nitroglycerin,1
+2,Enoxaparin sodium + Pantoprazole sodium,1
+3,Ampicillin sodium + Clarithromycin + Diclofenac sodium,1
+4,Celecoxib + Certolizumab pegol + Methotrexate sodium + Naproxen,1
+2,Ibrutinib + Oxycodone hydrochloride,1
+2,Fenofibrate + Rosuvastatin calcium,1
+3,Bisoprolol fumarate + Furosemide + Lisinopril,1
+2,Famotidine + Levothyroxine sodium,1
+2,Abaloparatide + Ibuprofen,1
+2,Midazolam hydrochloride + Morphine sulfate,1
+2,Atorvastatin calcium + Golimumab,1
+2,Cyclophosphamide + Doxorubicin hydrochloride,1
+4,Apixaban + Bisoprolol fumarate + Cabozantinib s-malate + Clopidogrel bisulfate,1
+4,Amlodipine besylate + Irbesartan + Lemborexant + Rosuvastatin calcium,1
+3,Amlodipine besylate + Fostamatinib disodium + Spironolactone,1
+2,Atorvastatin calcium + Metformin hydrochloride,1
+4,Allopurinol + Enalapril maleate + Ibrutinib + Venetoclax,1
+4,Amlodipine besylate + Diltiazem hydrochloride + Lisinopril + Tolvaptan,1
+2,Aspirin + Ponatinib hydrochloride,1
+3,Hydroxyzine hydrochloride + Rifampin + Ursodiol,1
+2,Losartan potassium + Voclosporin,1
+2,Hydroxychloroquine sulfate + Mycophenolate mofetil,1
+3,Cyanocobalamin + Gabapentin + Metformin hydrochloride,1
+2,Capecitabine + Vinorelbine tartrate,1
+4,Cyclophosphamide + Doxorubicin hydrochloride + Methotrexate sodium + Vincristine sulfate,1
+3,Folic acid + Methotrexate sodium + Prednisone,1
+3,Bisoprolol fumarate + Edoxaban tosylate + Olmesartan medoxomil,1
+3,Crizotinib + Lisinopril + Simvastatin,1
+4,Colesevelam hydrochloride + Escitalopram oxalate + Rosuvastatin calcium + Tamsulosin hydrochloride,1
+4,Azithromycin + Ciprofloxacin hydrochloride + Corticotropin + Semaglutide,1
+2,Semaglutide + Tolvaptan,1
+3,Cetuximab + Encorafenib + Gabapentin,1
+4,Digoxin + Furosemide + Metformin hydrochloride + Warfarin sodium,1
+2,Cefepime hydrochloride + Isavuconazonium sulfate,1
+3,Clonazepam + Fluoxetine hydrochloride + Semaglutide,1
+2,Amantadine hydrochloride + Entacapone,1
+4,Aspirin + Lisinopril + Rosuvastatin calcium + Sonidegib phosphate,1
+3,Carboplatin + Etoposide + Levofloxacin,1
+4,Gabapentin + Letrozole + Pregabalin + Ribociclib succinate,1
+4,Azathioprine + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+2,Fluoxetine hydrochloride + Semaglutide,1
+3,Ondansetron hydrochloride + Sertraline hydrochloride + Verapamil hydrochloride,1
+3,Cyanocobalamin + Pantoprazole sodium + Upadacitinib,1
+3,Abemaciclib + Bicalutamide + Loperamide hydrochloride,1
+3,Amphotericin B + Micafungin sodium + Voriconazole,1
+3,Ibrutinib + Lansoprazole + Prednisolone,1
+2,Ceftriaxone sodium + Rabeprazole sodium,1
+3,Lenvatinib mesylate + Methylprednisolone + Prednisolone,1
+2,Lenvatinib mesylate + Prednisolone,1
+3,Bisoprolol fumarate + Prednisolone + Tacrolimus,1
+3,Cetirizine hydrochloride + Epinephrine + Famotidine,1
+2,Levothyroxine sodium + Pantoprazole sodium,1
+2,Lisinopril + Ruxolitinib phosphate,1
+4,Amphotericin B + Cyclosporine + Methotrexate sodium + Tacrolimus,1
+4,Amlodipine besylate + Spironolactone + Tacrolimus + Torsemide,1
+2,Lenalidomide + Sertraline hydrochloride,1
+2,Allopurinol + Aspirin,1
+4,Apixaban + Folic acid + Levothyroxine sodium + Mirtazapine,1
+3,Erythropoietin + Hydroxyurea + Ruxolitinib phosphate,1
+2,Pravastatin sodium + Progesterone,1
+4,Carvedilol + Fluoxetine hydrochloride + Lisinopril + Spironolactone,1
+4,Allopurinol + Atorvastatin calcium + Calcitriol + Carvedilol,1
+3,Lansoprazole + Ondansetron hydrochloride + Sucralfate,1
+4,Bevacizumab + Capecitabine + Irinotecan hydrochloride + Oxaliplatin,1
+2,Diphenhydramine hydrochloride + Epinephrine,1
+3,Aspirin + Clopidogrel bisulfate + Golimumab,1
+3,Acetaminophen + Carboplatin + Paclitaxel,1
+2,Duloxetine hydrochloride + Modafinil,1
+3,Diphenhydramine hydrochloride + Epinephrine + Ustekinumab,1
+2,Famotidine + Rosuvastatin calcium,1
+4,Aripiprazole + Ibuprofen + Levothyroxine sodium + Metronidazole,1
+2,Loperamide hydrochloride + Risedronate sodium,1
+4,Darbepoetin alfa + Febuxostat + Levothyroxine sodium + Nifedipine,1
+2,Semaglutide + Sertraline hydrochloride,1
+4,Epinephrine + Heparin sodium + Omalizumab + Teriparatide acetate,1
+3,Carvedilol + Lisinopril + Spironolactone,1
+2,Epinephrine + Omalizumab,1
+3,Amlodipine besylate + Lenvatinib mesylate + Levothyroxine sodium,1
+4,Apixaban + Enoxaparin sodium + Letrozole + Ribociclib succinate,1
+3,Abemaciclib + Letrozole + Zoledronic acid,1
+3,Amlodipine besylate + Prednisone + Sodium bicarbonate,1
+2,Amlodipine besylate + Spironolactone,1
+2,Methylprednisolone + Mycophenolate mofetil,1
+4,Amlodipine besylate + Bisoprolol fumarate + Leuprolide acetate + Tamsulosin hydrochloride,1
+3,Allopurinol + Folic acid + Methotrexate sodium,1
+2,Aspirin + Semaglutide,1
+2,Apixaban + Clopidogrel bisulfate,1
+2,Colchicine + Cyclosporine,1
+4,Abaloparatide + Atorvastatin calcium + Clopidogrel bisulfate + Levothyroxine sodium,1
+3,Acalabrutinib + Allopurinol + Venetoclax,1
+3,Celecoxib + Tizanidine hydrochloride + Tramadol hydrochloride,1
+2,Cinacalcet hydrochloride + Octreotide acetate,1
+2,Cabozantinib s-malate + Ruxolitinib phosphate,1
+2,Prednisone + Terbutaline sulfate,1
+4,Apixaban + Atorvastatin calcium + Metoprolol succinate + Rabeprazole sodium,1
+4,Amlodipine besylate + Atorvastatin calcium + Febuxostat + Nifedipine,1
+2,Atorvastatin calcium + Ramipril,1
+3,Naldemedine tosylate + Oxycodone hydrochloride + Pregabalin,1
+3,Bisoprolol fumarate + Linezolid + Warfarin sodium,1
+4,Albuterol + Cephalexin + Montelukast sodium + Oxycodone hydrochloride,1
+4,Duloxetine hydrochloride + Infliximab + Mirtazapine + Rabeprazole sodium,1
+3,Idarubicin hydrochloride + Mercaptopurine + Prednisolone,1
+2,Aripiprazole + Carglumic acid,1
+4,Aspirin + Atorvastatin calcium + Cyanocobalamin + Escitalopram oxalate,1
+3,Propofol + Remifentanil hydrochloride + Succinylcholine chloride,1
+3,Acyclovir + Amphotericin B + Levofloxacin,1
+3,Certolizumab pegol + Dexamethasone + Meloxicam,1
+3,Ceftazidime + Metronidazole + Vancomycin hydrochloride,1
+2,Cyclophosphamide + Voclosporin,1
+2,Semaglutide + Voclosporin,1
+3,Mycophenolate mofetil + Tizanidine hydrochloride + Voclosporin,1
+2,Deferasirox + Eculizumab,1
+2,Hydrocortisone acetate + Levothyroxine sodium,1
+3,Amikacin sulfate + Azithromycin + Linezolid,1
+3,Acetaminophen + Calcium acetate + Prednisolone,1
+4,Abemaciclib + Diazepam + Letrozole + Sertraline hydrochloride,1
+2,Abaloparatide + Levothyroxine sodium,1
+3,Celecoxib + Lenvatinib mesylate + Levothyroxine sodium,1
+2,Amikacin sulfate + Linezolid,1
+3,Dexamethasone + Pantoprazole sodium + Prednisone,1
+4,Busulfan + Cyanocobalamin + Ondansetron hydrochloride + Scopolamine,1
+4,Amlodipine besylate + Fenofibrate + Levothyroxine sodium + Osilodrostat phosphate,1
+2,Azathioprine + Budesonide,1
+2,Cabozantinib s-malate + Hydrocortisone acetate,1
+3,Binimetinib + Encorafenib + Linagliptin,1
+3,Levothyroxine sodium + Losartan potassium + Osilodrostat phosphate,1
+2,Albuterol + Escitalopram oxalate,1
+2,Empagliflozin + Pantoprazole sodium,1
+4,Amlodipine besylate + Furosemide + Lisinopril + Voclosporin,1
+3,Duloxetine hydrochloride + Naproxen + Oxycodone hydrochloride,1
+3,Fluoxetine hydrochloride + Montelukast sodium + Rosuvastatin calcium,1
+3,Carfilzomib + Dexamethasone + Venetoclax,1
+3,Glyburide + Metformin hydrochloride + Naproxen,1
+3,Amlodipine besylate + Empagliflozin + Tadalafil,1
+3,Apomorphine hydrochloride + Clonazepam + Zolpidem tartrate,1
+4,Acetaminophen + Famotidine + Ibuprofen + Prednisolone,1
+3,Budesonide + Hydrochlorothiazide + Losartan potassium,1
+3,Folic acid + Metformin hydrochloride + Methotrexate sodium,1
+3,Clozapine + Thiamine hydrochloride + Trihexyphenidyl hydrochloride,1
+2,Opicapone + Safinamide mesylate,1
+4,Bosentan + Furosemide + Selexipag + Tadalafil,1
+4,Atorvastatin calcium + Empagliflozin + Metformin hydrochloride + Semaglutide,1
+3,Amlodipine besylate + Edoxaban tosylate + Hydrochlorothiazide,1
+3,Amoxicillin + Levofloxacin + Metronidazole,1
+2,Fostamatinib disodium + Prednisolone,1
+4,Albuterol + Losartan potassium + Omalizumab + Telmisartan,1
+2,Gabapentin + Sevelamer hydrochloride,1
+3,Furosemide + Rosuvastatin calcium + Spironolactone,1
+3,Entacapone + Levothyroxine sodium + Sertraline hydrochloride,1
+2,Budesonide + Levothyroxine sodium,1
+4,Aspirin + Azilsartan kamedoxomil + Dexamethasone + Tamsulosin hydrochloride,1
+3,Indapamide + Pantoprazole sodium + Prednisone,1
+2,Diphenhydramine hydrochloride + Lorlatinib,1
+3,Amiodarone hydrochloride + Bisoprolol fumarate + Tafamidis meglumine,1
+4,Acetaminophen + Apixaban + Methimazole + Pyridoxine hydrochloride,1
+2,Budesonide + Prednisone,1
+2,Aripiprazole + Clozapine,1
+4,Amlodipine besylate + Apixaban + Bisoprolol fumarate + Chlorthalidone,1
+2,Lisinopril + Spironolactone,1
+3,Cetirizine hydrochloride + Omalizumab + Ranitidine hydrochloride,1
+3,Rifaximin + Rimegepant sulfate + Risperidone,1
+2,Agalsidase beta + Hydroxyzine hydrochloride,1
+3,Interferon beta-1a + Natalizumab + Ofatumumab,1
+3,Acetaminophen + Edoxaban tosylate + Pitavastatin calcium,1
+4,Cefepime hydrochloride + Doxorubicin hydrochloride + Ifosfamide + Mesna,1
+2,Gilteritinib fumarate + Tacrolimus,1
+2,Epinephrine + Heparin sodium,1
+4,Enalapril maleate + Fenofibrate + Metformin hydrochloride + Rosuvastatin calcium,1
+4,Bevacizumab + Erlotinib hydrochloride + Quinapril hydrochloride + Sodium bicarbonate,1
+4,Duloxetine hydrochloride + Ezetimibe + Fexofenadine hydrochloride + Simvastatin,1
+2,Amlodipine besylate + Meclizine hydrochloride,1
+2,Atorvastatin calcium + Inclisiran sodium,1
+2,Apixaban + Fondaparinux sodium,1
+3,Amlodipine besylate + Fenofibrate + Osilodrostat phosphate,1
+3,Letermovir + Tacrolimus + Valganciclovir hydrochloride,1
+3,Amlodipine besylate + Enalapril maleate + Simvastatin,1
+3,Avapritinib + Clonazepam + Mirtazapine,1
+3,Bevacizumab + Cabozantinib s-malate + Lenvatinib mesylate,1
+4,Apixaban + Enoxaparin sodium + Fondaparinux sodium + Heparin sodium,1
+2,Botulinum toxin type a + Ketamine hydrochloride,1
+3,Cetirizine hydrochloride + Fexofenadine hydrochloride + Omalizumab,1
+2,Avacopan + Hydrochlorothiazide,1
+2,Hydrochlorothiazide + Pantoprazole sodium,1
+3,Amikacin sulfate + Azithromycin + Ethambutol hydrochloride,1
+3,Furosemide + Hydralazine hydrochloride + Nifedipine,1
+4,Ceftriaxone sodium + Daptomycin + Furosemide + Linezolid,1
+4,Apixaban + Bisoprolol fumarate + Furosemide + Linagliptin,1
+3,Hydroxychloroquine sulfate + Torsemide + Voclosporin,1
+3,Binimetinib + Encorafenib + Temozolomide,1
+3,Lisinopril + Mycophenolate mofetil + Voclosporin,1
+4,Cyclophosphamide + Eculizumab + Hydroxychloroquine sulfate + Mycophenolate mofetil,1
+2,Dapagliflozin + Torsemide,1
+2,Ibuprofen + Methotrexate sodium,1
+4,Cetirizine hydrochloride + Doxepin hydrochloride + Doxycycline + Prednisone,1
+4,Azacitidine + Ezetimibe + Venetoclax + Venlafaxine hydrochloride,1
+3,Clonazepam + Lubiprostone + Mirabegron,1
+4,Ezetimibe + Furosemide + Opicapone + Rasagiline mesylate,1
+3,Cisplatin + Levofloxacin + Pemetrexed disodium,1
+3,Eculizumab + Meropenem + Vancomycin hydrochloride,1
+4,Basiliximab + Everolimus + Mycophenolate mofetil + Tacrolimus,1
+3,Clobazam + Fluconazole + Vigabatrin,1
+3,Cyclosporine + Methotrexate sodium + Prednisone,1
+3,Atropine + Dopamine hydrochloride + Sodium bicarbonate,1
+2,Atorvastatin calcium + Levetiracetam,1
+4,Omeprazole + Oxycodone hydrochloride + Prednisone + Semaglutide,1
+2,Prednisone + Ustekinumab,1
+2,Capecitabine + Panitumumab,1
+3,Dexamethasone + Lenalidomide + Pomalidomide,1
+3,Lisinopril + Metformin hydrochloride + Semaglutide,1
+2,Acetaminophen + Irbesartan,1
+3,Cisplatin + Doxorubicin hydrochloride + Methotrexate sodium,1
+4,Entrectinib + Glimepiride + Metformin hydrochloride + Osimertinib mesylate,1
+3,Abaloparatide + Atorvastatin calcium + Ezetimibe,1
+4,Budesonide + Candesartan cilexetil + Febuxostat + Tolvaptan,1
+3,Binimetinib + Encorafenib + Ramipril,1
+4,Amlodipine besylate + Apixaban + Doxycycline + Ursodiol,1
+4,Letrozole + Losartan potassium + Metoprolol succinate + Osimertinib mesylate,1
+2,Alprazolam + Prednisone,1
+2,Cabergoline + Escitalopram oxalate,1
+4,Acetaminophen + Corticotropin + Levocetirizine dihydrochloride + Levothyroxine sodium,1
+2,Allopurinol + Colchicine,1
+4,Lubiprostone + Pegfilgrastim + Ramelteon + Zoledronic acid,1
+4,Amphotericin B + Dolutegravir sodium + Fluconazole + Flucytosine,1
+3,Acetaminophen + Lactulose + Prednisolone,1
+3,Cisplatin + Doxorubicin hydrochloride + Ifosfamide,1
+2,Amantadine hydrochloride + Amoxicillin,1
+3,Cetirizine hydrochloride + Omalizumab + Prednisone,1
+4,Acetaminophen + Clonazepam + Dabrafenib mesylate + Prednisone,1
+4,Empagliflozin + Metformin hydrochloride + Semaglutide + Sitagliptin phosphate,1
+3,Levetiracetam + Omeprazole + Prednisolone,1
+2,Clozapine + Dobutamine hydrochloride,1
+2,Abatacept + Epinephrine,1
+3,Belumosudil mesylate + Sirolimus + Tacrolimus,1
+4,Amoxicillin + Ceftriaxone sodium + Methotrexate sodium + Prednisone,1
+4,Mirabegron + Rosuvastatin calcium + Sertraline hydrochloride + Tamsulosin hydrochloride,1
+3,Amlodipine besylate + Hydrochlorothiazide + Telmisartan,1
+3,Baclofen + Dabrafenib mesylate + Trametinib dimethyl sulfoxide,1
+2,Mycophenolate mofetil + Pegcetacoplan,1
+2,Inclisiran sodium + Semaglutide,1
+4,Leflunomide + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+4,Amiodarone hydrochloride + Mirtazapine + Omeprazole + Rivaroxaban,1
+3,Aspirin + Levothyroxine sodium + Osilodrostat phosphate,1
+3,Atorvastatin calcium + Metoprolol succinate + Rivaroxaban,1
+3,Abatacept + Epinephrine + Methotrexate sodium,1
+4,Anastrozole + Exemestane + Letrozole + Ribociclib succinate,1
+4,Amlodipine besylate + Atracurium + Epinephrine + Hydrochlorothiazide,1
+3,Irinotecan hydrochloride + Levothyroxine sodium + Octreotide acetate,1
+3,Clozapine + Furosemide + Loxapine succinate,1
+3,Bevacizumab + Furosemide + Losartan potassium,1
+2,Calcitriol + Voxelotor,1
+3,Gemcitabine hydrochloride + Lenalidomide + Oxaliplatin,1
+2,Bisoprolol fumarate + Clopidogrel bisulfate,1
+2,Mesalamine + Pantoprazole sodium,1
+3,Meropenem + Prednisolone + Tacrolimus,1
+2,Acalabrutinib + Aspirin,1
+3,Duloxetine hydrochloride + Hydromorphone hydrochloride + Nifedipine,1
+4,Mycophenolate mofetil + Prednisolone + Sodium bicarbonate + Tacrolimus,1
+4,Atorvastatin calcium + Hydrocortisone acetate + Lisinopril + Metoprolol succinate,1
+4,Dapagliflozin + Edoxaban tosylate + Finerenone + Repaglinide,1
+2,Apixaban + Apomorphine hydrochloride,1
+3,Acetaminophen + Letrozole + Ribociclib succinate,1
+3,Bortezomib + Dexamethasone + Selinexor,1
+2,Amlodipine besylate + Pantoprazole sodium,1
+2,Loratadine + Tramadol hydrochloride,1
+2,Dapagliflozin + Propranolol hydrochloride,1
+2,Enalapril maleate + Tolvaptan,1
+2,Dextroamphetamine sulfate + Sodium oxybate,1
+2,Prochlorperazine maleate + Venetoclax,1
+2,Montelukast sodium + Omalizumab,1
+2,Letermovir + Tacrolimus,1
+2,Amlodipine besylate + Osilodrostat phosphate,1
+2,Deflazacort + Mycophenolate mofetil,1
+3,Exemestane + Ribociclib succinate + Zoledronic acid,1
+4,Azathioprine + Ezetimibe + Pyridostigmine bromide + Trazodone hydrochloride,1
+4,Abemaciclib + Amlodipine besylate + Anastrozole + Famotidine,1
+3,Furosemide + Nifedipine + Tolvaptan,1
+3,Letermovir + Mycophenolate mofetil + Tacrolimus,1
+2,Abaloparatide + Selexipag,1
+3,Capecitabine + Gabapentin + Trazodone hydrochloride,1
+4,Ceftriaxone sodium + Furosemide + Hydrochlorothiazide + Metformin hydrochloride,1
+3,Daptomycin + Gabapentin + Omeprazole,1
+3,Acetaminophen + Ibuprofen + Lisinopril,1
+3,Doxorubicin hydrochloride + Ifosfamide + Mycophenolate mofetil,1
+2,Octreotide acetate + Sirolimus,1
+4,Fulvestrant + Letrozole + Paclitaxel + Palbociclib,1
+3,Carboplatin + Etoposide + Ifosfamide,1
+4,Amoxicillin + Ceftriaxone sodium + Metformin hydrochloride + Pantoprazole sodium,1
+3,Amphotericin B + Isavuconazonium sulfate + Posaconazole,1
+4,Basiliximab + Cyclosporine + Everolimus + Prednisolone,1
+3,Levothyroxine sodium + Phenobarbital sodium + Sildenafil citrate,1
+2,Rosuvastatin calcium + Trazodone hydrochloride,1
+3,Atorvastatin calcium + Nitroglycerin + Ranolazine,1
+3,Dexamethasone + Lisinopril + Rivaroxaban,1
+3,Metformin hydrochloride + Semaglutide + Simvastatin,1
+2,Atorvastatin calcium + Tapentadol hydrochloride,1
+4,Belumosudil mesylate + Mycophenolate mofetil + Prednisolone + Ruxolitinib phosphate,1
+2,Acalabrutinib + Venetoclax,1
+3,Binimetinib + Cetuximab + Encorafenib,1
+3,Capecitabine + Metoclopramide hydrochloride + Mirtazapine,1
+3,Ceftriaxone sodium + Emtricitabine + Metronidazole,1
+3,Allopurinol + Mycophenolate mofetil + Tacrolimus,1
+2,Mesalamine + Warfarin sodium,1
+4,Bisoprolol fumarate + Empagliflozin + Finerenone + Spironolactone,1
+2,Methimazole + Paclitaxel,1
+3,Leucovorin calcium + Methotrexate sodium + Sodium bicarbonate,1
+4,Enalaprilat + Hydroxychloroquine sulfate + Infliximab + Leflunomide,1
+3,Cyanocobalamin + Cyclobenzaprine hydrochloride + Ustekinumab,1
+2,Gabapentin + Losartan potassium,1
+2,Atorvastatin calcium + Ranolazine,1
+2,Amphotericin B + Nifedipine,1
+3,Lansoprazole + Lemborexant + Prednisolone,1
+4,Apixaban + Bisoprolol fumarate + Irinotecan hydrochloride + Torsemide,1
+2,Naproxen + Ondansetron hydrochloride,1
+2,Dexamethasone + Prednisone,1
+4,Hydrochlorothiazide + Olmesartan medoxomil + Spironolactone + Valsartan,1
+4,Bleomycin sulfate + Dacarbazine + Doxorubicin hydrochloride + Vinblastine sulfate,1
+2,Furosemide + Pomalidomide,1
+3,Azacitidine + Fluconazole + Venetoclax,1
+4,Apixaban + Aspirin + Atorvastatin calcium + Semaglutide,1
+3,Cytarabine + Gemtuzumab ozogamicin + Gilteritinib fumarate,1
+2,Bumetanide + Lorlatinib,1
+2,Anakinra + Spironolactone,1
+2,Amiodarone hydrochloride + Norepinephrine bitartrate,1
+2,Corticotropin + Losartan potassium,1
+4,Cyclophosphamide + Methotrexate sodium + Prednisone + Vincristine sulfate,1
+4,Levothyroxine sodium + Loperamide hydrochloride + Panitumumab + Pantoprazole sodium,1
+4,Alendronate sodium + Apixaban + Canagliflozin + Simvastatin,1
+4,Ambrisentan + Erythropoietin + Selexipag + Tadalafil,1
+2,Infliximab + Sertraline hydrochloride,1
+4,Fluconazole + Hydromorphone hydrochloride + Nystatin + Oxycodone hydrochloride,1
+2,Amitriptyline hydrochloride + Ramipril,1
+3,Empagliflozin + Furosemide + Tolvaptan,1
+3,Atorvastatin calcium + Lenalidomide + Metformin hydrochloride,1
+2,Apixaban + Zoledronic acid,1
+2,Lenvatinib mesylate + Olaparib,1
+3,Morphine sulfate + Oxycodone hydrochloride + Tramadol hydrochloride,1
+2,Empagliflozin + Glimepiride,1
+2,Aripiprazole + Quetiapine fumarate,1
+2,Acetaminophen + Tiopronin,1
+3,Apixaban + Letrozole + Ribociclib succinate,1
+3,Finerenone + Irbesartan + Rosuvastatin calcium,1
+2,Golimumab + Prednisone,1
+4,Cefdinir + Lactulose + Rifaximin + Ursodiol,1
+2,Fedratinib hydrochloride + Granisetron hydrochloride,1
+2,Eculizumab + Gemcitabine hydrochloride,1
+3,Glipizide + Metformin hydrochloride + Semaglutide,1
+4,Certolizumab pegol + Leflunomide + Levothyroxine sodium + Prednisolone,1
+3,Amlodipine besylate + Empagliflozin + Valsartan,1
+2,Dabrafenib mesylate + Lenvatinib mesylate,1
+3,Mercaptopurine + Methotrexate sodium + Pegaspargase,1
+3,Levetiracetam + Perampanel + Risdiplam,1
+2,Apixaban + Ribociclib succinate,1
+2,Furosemide + Hydralazine hydrochloride,1
+3,Ceftriaxone sodium + Metronidazole + Vancomycin hydrochloride,1
+4,Daptomycin + Meropenem + Micafungin sodium + Vancomycin hydrochloride,1
+3,Furosemide + Spironolactone + Valsartan,1
+4,Dexamethasone + Ergocalciferol + Pantoprazole sodium + Prednisone,1
+2,Aspirin + Corticotropin,1
+4,Amlodipine besylate + Binimetinib + Encorafenib + Metformin hydrochloride,1
+2,Diclofenac sodium + Semaglutide,1
+4,Cinacalcet hydrochloride + Mycophenolate mofetil + Prednisone + Tacrolimus,1
+2,Fluconazole + Levofloxacin,1
+3,Everolimus + Mycophenolate mofetil + Tacrolimus,1
+2,Bevacizumab + Docetaxel,1
+2,Hydromorphone hydrochloride + Venetoclax,1
+2,Apixaban + Metoprolol succinate,1
+2,Meloxicam + Metoprolol succinate,1
+2,Dapagliflozin + Spironolactone,1
+4,Cyclosporine + Loratadine + Mirtazapine + Paroxetine hydrochloride,1
+2,Alectinib hydrochloride + Lorlatinib,1
+3,Carboplatin + Cyanocobalamin + Paclitaxel,1
+3,Adalimumab + Azathioprine + Mesalamine,1
+2,Methotrexate sodium + Morphine sulfate,1
+4,Apixaban + Carvedilol + Empagliflozin + Furosemide,1
+2,Mycophenolate mofetil + Oseltamivir phosphate,1
+3,Duloxetine hydrochloride + Lansoprazole + Pregabalin,1
+3,Acetaminophen + Corticotropin + Oxycodone hydrochloride,1
+2,Aspirin + Tadalafil,1
+3,Azacitidine + Posaconazole + Venetoclax,1
+4,Felodipine + Mirtazapine + Quetiapine fumarate + Venlafaxine hydrochloride,1
+2,Esomeprazole sodium + Rosuvastatin calcium,1
+4,Apixaban + Cephalexin + Hydralazine hydrochloride + Rosuvastatin calcium,1
+3,Belumosudil mesylate + Prednisolone + Ruxolitinib phosphate,1
+3,Epinephrine + Ibuprofen + Sodium bicarbonate,1
+2,Carboplatin + Ciprofloxacin hydrochloride,1
+3,Dapagliflozin + Diclofenac sodium + Furosemide,1
+2,Dexchlorpheniramine maleate + Esomeprazole sodium,1
+4,Apixaban + Indapamide + Pantoprazole sodium + Spironolactone,1
+2,Metoprolol succinate + Omalizumab,1
+4,Candesartan cilexetil + Furosemide + Metformin hydrochloride + Sitagliptin phosphate,1
+2,Ibuprofen + Penicillin v potassium,1
+4,Acetaminophen + Cefuroxime sodium + Ciprofloxacin hydrochloride + Ibuprofen,1
+2,Anakinra + Dexamethasone,1
+4,Amlodipine besylate + Hydroxychloroquine sulfate + Macitentan + Selexipag,1
+4,Cyclophosphamide + Etoposide + Pegfilgrastim + Prednisolone,1
+3,Cyclophosphamide + Methylprednisolone + Rivaroxaban,1
+3,Amoxicillin + Esomeprazole sodium + Ibuprofen,1
+4,Dapsone + Mycophenolate mofetil + Tacrolimus + Warfarin sodium,1
+3,Albuterol + Carboplatin + Pemetrexed disodium,1
+2,Adalimumab + Ustekinumab,1
+2,Golimumab + Morphine sulfate,1
+4,Azathioprine + Mesalamine + Pegfilgrastim + Ursodiol,1
+2,Mesalamine + Ozanimod hydrochloride,1
+3,Chlorthalidone + Losartan potassium + Pantoprazole sodium,1
+4,Carvedilol + Gemcitabine hydrochloride + Mycophenolate mofetil + Sirolimus,1
+4,Apixaban + Atorvastatin calcium + Nebivolol hydrochloride + Torsemide,1
+2,Cabozantinib s-malate + Octreotide acetate,1
+4,Bevacizumab + Ciprofloxacin hydrochloride + Thiamine hydrochloride + Torsemide,1
+2,Ribociclib succinate + Tinzaparin sodium,1
+3,Cannabidiol + Divalproex sodium + Lamotrigine,1
+3,Amlodipine besylate + Atorvastatin calcium + Budesonide,1
+3,Abaloparatide + Gabapentin + Sertraline hydrochloride,1
+2,Abaloparatide + Abatacept,1
+3,Methylprednisolone + Pantoprazole sodium + Phytonadione,1
+2,Abaloparatide + Bisacodyl,1
+4,Carboplatin + Etoposide + Ifosfamide + Zanubrutinib,1
+4,Abaloparatide + Bupropion hydrochloride + Simvastatin + Vilazodone hydrochloride,1
+4,Abaloparatide + Cyanocobalamin + Flecainide acetate + Valsartan,1
+2,Lenalidomide + Topiramate,1
+3,Abaloparatide + Calcium acetate + Rosuvastatin calcium,1
+2,Acetaminophen + Amlodipine besylate,1
+2,Acetylcysteine + Azithromycin,1
+2,Acetylcysteine + Ursodiol,1
+3,Cytarabine + Methotrexate sodium + Pantoprazole sodium,1
+2,Metformin hydrochloride + Methotrexate sodium,1
+2,Carboplatin + Norepinephrine bitartrate,1
+2,Cannabidiol + Clobazam,1
+3,Cyclophosphamide + Fludarabine phosphate + Ifosfamide,1
+3,Cisplatin + Febuxostat + Gemcitabine hydrochloride,1
+4,Atorvastatin calcium + Cyanocobalamin + Pantoprazole sodium + Paroxetine hydrochloride,1
+2,Dexamethasone + Filgrastim,1
+3,Amphotericin B + Ceftriaxone sodium + Dexamethasone,1
+4,Azathioprine + Hydroxychloroquine sulfate + Mycophenolate mofetil + Prednisone,1
+2,Rosuvastatin calcium + Sitagliptin phosphate,1
+4,Amlodipine besylate + Aspirin + Atenolol + Atorvastatin calcium,1
+4,Cyclophosphamide + Mycophenolate mofetil + Prednisone + Tacrolimus,1
+2,Lidocaine + Tranexamic acid,1
+2,Acarbose + Dapagliflozin,1
+4,Fluorouracil + Leucovorin calcium + Levoleucovorin + Oxaliplatin,1
+3,Amlodipine besylate + Hydrochlorothiazide + Lisinopril,1
+3,Everolimus + Ibuprofen + Morphine sulfate,1
+3,Furosemide + Ramipril + Spironolactone,1
+2,Omeprazole + Prednisolone,1
+2,Acetaminophen + Furosemide,1
+4,Amlodipine besylate + Codeine sulfate + Lenalidomide + Spironolactone,1
+2,Colchicine + Prednisolone,1
+2,Celecoxib + Oxycodone hydrochloride,1
+4,Furosemide + Lisinopril + Losartan potassium + Ramipril,1
+3,Empagliflozin + Linagliptin + Metformin hydrochloride,1
+3,Anastrozole + Carboplatin + Paclitaxel,1
+4,Azathioprine + Cyclophosphamide + Mycophenolate mofetil + Prednisone,1
+4,Capecitabine + Fluorouracil + Levoleucovorin + Oxaliplatin,1
+3,Atorvastatin calcium + Losartan potassium + Voclosporin,1
+3,Cyclophosphamide + Mycophenolate mofetil + Prednisone,1
+3,Hydrocortisone acetate + Meropenem + Norepinephrine bitartrate,1
+2,Metformin hydrochloride + Ramipril,1
+3,Midazolam hydrochloride + Phenobarbital sodium + Propofol,1
+3,Dolutegravir sodium + Lamivudine + Tenofovir disoproxil fumarate,1
+3,Empagliflozin + Furosemide + Metformin hydrochloride,1
+2,Etanercept + Golimumab,1
+3,Avacopan + Methylprednisolone + Prednisolone,1
+2,Dapagliflozin + Finerenone,1
+2,Levothyroxine sodium + Omalizumab,1
+3,Amphotericin B + Fluconazole + Flucytosine,1
+4,Aspirin + Carvedilol + Clopidogrel bisulfate + Rosuvastatin calcium,1
+3,Naproxen + Omeprazole + Vismodegib,1
+4,Albuterol + Ciprofloxacin hydrochloride + Levetiracetam + Omeprazole,1
+4,Atorvastatin calcium + Clonidine hydrochloride + Losartan potassium + Metformin hydrochloride,1
+4,Amiodarone hydrochloride + Furosemide + Metoprolol succinate + Warfarin sodium,1
+2,Golimumab + Nitrofurantoin,1
+4,Dexmedetomidine hydrochloride + Propofol + Remifentanil hydrochloride + Rocuronium bromide,1
+4,Apixaban + Aspirin + Atorvastatin calcium + Metoprolol succinate,1
+4,Cyclophosphamide + Letermovir + Mycophenolate mofetil + Tacrolimus,1
+4,Gemcitabine hydrochloride + Lenvatinib mesylate + Pazopanib hydrochloride + Regorafenib,1
+4,Carboplatin + Cisplatin + Dexamethasone + Pemetrexed disodium,1
+4,Aspirin + Ibuprofen + Lacosamide + Levothyroxine sodium,1
+3,Capecitabine + Furosemide + Lisinopril,1
+3,Bortezomib + Lenalidomide + Ondansetron hydrochloride,1
+2,Apixaban + Corticotropin,1
+3,Cabozantinib s-malate + Everolimus + Lenvatinib mesylate,1
+3,Furosemide + Tolvaptan + Torsemide,1
+2,Bevacizumab + Lomustine,1
+4,Amlodipine besylate + Atorvastatin calcium + Dapagliflozin + Omeprazole,1
+2,Hydroxyurea + Levothyroxine sodium,1
+3,Ketorolac tromethamine + Levothyroxine sodium + Metformin hydrochloride,1
+2,Aripiprazole + Bupropion hydrochloride,1
+3,Aspirin + Atorvastatin calcium + Valsartan,1
+2,Cyanocobalamin + Relugolix,1
+2,Dexamethasone + Valganciclovir hydrochloride,1
+2,Phenobarbital sodium + Tacrolimus,1
+4,Imatinib mesylate + Levofloxacin + Linezolid + Prednisone,1
+2,Duloxetine hydrochloride + Olaparib,1
+3,Cetirizine hydrochloride + Pravastatin sodium + Semaglutide,1
+3,Agalsidase beta + Prednisone + Tacrolimus,1
+2,Amoxicillin + Clozapine,1
+2,Losartan potassium + Spironolactone,1
+2,Fluorouracil + Irinotecan hydrochloride,1
+4,Enalapril maleate + Metformin hydrochloride + Rosuvastatin calcium + Venlafaxine hydrochloride,1
+4,Acetaminophen + Cefepime hydrochloride + Romidepsin + Vancomycin hydrochloride,1
+2,Propranolol hydrochloride + Sodium oxybate,1
+2,Anakinra + Irinotecan hydrochloride,1
+4,Bortezomib + Carfilzomib + Dexamethasone + Pomalidomide,1
+2,Amlodipine besylate + Empagliflozin,1
+3,Budesonide + Escitalopram oxalate + Mirabegron,1
+3,Dapagliflozin + Mycophenolate mofetil + Prednisolone,1
+4,Alendronate sodium + Esomeprazole sodium + Hydroxychloroquine sulfate + Prednisolone,1
+3,Corticotropin + Empagliflozin + Semaglutide,1
+2,Aspirin + Cefixime,1
+3,Glimepiride + Losartan potassium + Rosuvastatin calcium,1
+2,Rifampin + Vancomycin hydrochloride,1
+2,Aspirin + Digoxin,1
+4,Cyclophosphamide + Hydroxychloroquine sulfate + Mycophenolate mofetil + Prednisone,1
+3,Anastrozole + Cefepime hydrochloride + Vancomycin hydrochloride,1
+2,Cilostazol + Spironolactone,1
+2,Alfuzosin hydrochloride + Metoprolol succinate,1
+2,Ceftriaxone sodium + Vancomycin hydrochloride,1
+2,Diltiazem hydrochloride + Metoprolol succinate,1
+4,Mycophenolate mofetil + Prednisolone + Sirolimus + Tacrolimus,1
+3,Hydrochlorothiazide + Lisinopril + Topiramate,1
+2,Calcitriol + Calcium acetate,1
+2,Fostamatinib disodium + Romiplostim,1
+2,Apixaban + Cenobamate,1
+3,Prednisone + Tacrolimus + Vancomycin hydrochloride,1
+2,Dasatinib + Nilotinib hydrochloride,1
+2,Hydrocortisone acetate + Prednisolone,1
+3,Diclofenac sodium + Ketoprofen + Naproxen,1
+2,Dabigatran etexilate mesylate + Metoprolol succinate,1
+4,Atorvastatin calcium + Azilsartan kamedoxomil + Empagliflozin + Finerenone,1
+2,Amlodipine besylate + Ezetimibe,1
+2,Allopurinol + Tapentadol hydrochloride,1
+2,Hydrochlorothiazide + Losartan potassium,1
+2,Amoxicillin + Esomeprazole sodium,1
+2,Clonidine hydrochloride + Propranolol hydrochloride,1
+2,Albuterol + Semaglutide,1
+2,Gemcitabine hydrochloride + Olaparib,1
+4,Atorvastatin calcium + Empagliflozin + Febuxostat + Sodium bicarbonate,1
+2,Furosemide + Irbesartan,1
+2,Ezetimibe + Olmesartan medoxomil,1
+3,Mycophenolate mofetil + Sodium bicarbonate + Tacrolimus,1
+2,Abemaciclib + Prednisone,1
+2,Ampicillin sodium + Ibuprofen,1
+4,Escitalopram oxalate + Golimumab + Naproxen + Ramipril,1
+4,Acetaminophen + Acetylcysteine + Micafungin sodium + Sodium bicarbonate,1
+4,Empagliflozin + Eplerenone + Furosemide + Metformin hydrochloride,1
+3,Amiodarone hydrochloride + Bisoprolol fumarate + Rivaroxaban,1
+3,Bisoprolol fumarate + Edoxaban tosylate + Valsartan,1
+2,Eculizumab + Prednisone,1
+3,Propranolol hydrochloride + Rifaximin + Semaglutide,1
+3,Desmopressin acetate + Levetiracetam + Temozolomide,1
+2,Amlodipine besylate + Rivaroxaban,1
+3,Cyclophosphamide + Doxorubicin hydrochloride + Prednisolone,1
+3,Bortezomib + Cyclophosphamide + Prednisone,1
+3,Infliximab + Levothyroxine sodium + Prednisone,1
+2,Cyanocobalamin + Infliximab,1
+3,Carbamazepine + Hydrocortisone acetate + Levothyroxine sodium,1
+2,Bevacizumab + Irinotecan hydrochloride,1
+3,Allopurinol + Amlodipine besylate + Pemetrexed disodium,1
+3,Dapagliflozin + Tolvaptan + Torsemide,1
+2,Canagliflozin + Glimepiride,1
+3,Acyclovir + Fluoxetine hydrochloride + Lorazepam,1
+2,Ceftriaxone sodium + Fluconazole,1
+4,Bortezomib + Cyclophosphamide + Dexamethasone + Melphalan,1
+4,Amlodipine besylate + Hydrochlorothiazide + Losartan potassium + Osimertinib mesylate,1
+4,Apixaban + Empagliflozin + Linagliptin + Rosuvastatin calcium,1
+4,Basiliximab + Hydroxychloroquine sulfate + Methylprednisolone + Tacrolimus,1
+2,Dabigatran etexilate mesylate + Nifedipine,1
+2,Amoxicillin + Dexamethasone,1
+2,Gemcitabine hydrochloride + Lorazepam,1
+4,Aspirin + Ezetimibe + Famotidine + Losartan potassium,1
+2,Romiplostim + Spironolactone,1
+4,Aspirin + Atorvastatin calcium + Bisoprolol fumarate + Furosemide,1
+4,Atorvastatin calcium + Hydrocortisone acetate + Levothyroxine sodium + Polyethylene glycol 3350,1
+2,Clopidogrel bisulfate + Diazepam,1
+4,Mycophenolate mofetil + Prednisolone + Sodium thiosulfate + Tacrolimus,1
+4,Amlodipine besylate + Atorvastatin calcium + Buspirone hydrochloride + Lenalidomide,1
+3,Linezolid + Rifampin + Vancomycin hydrochloride,1
+3,Docetaxel + Irinotecan hydrochloride + Paclitaxel,1
+4,Bevacizumab + Carboplatin + Paclitaxel + Pemetrexed disodium,1
+2,Ketoprofen + Omeprazole,1
+4,Acyclovir + Lenalidomide + Meropenem + Omeprazole,1
+3,Clonazepam + Fluoxetine hydrochloride + Lamotrigine,1
+3,Bicalutamide + Leuprolide acetate + Sertraline hydrochloride,1
+2,Fexofenadine hydrochloride + Lenvatinib mesylate,1
+2,Cabazitaxel + Docetaxel,1
+3,Abemaciclib + Letrozole + Levothyroxine sodium,1
+4,Acetaminophen + Dexlansoprazole + Rosuvastatin calcium + Tramadol hydrochloride,1
+2,Amoxicillin + Ibuprofen,1
+4,Ceftriaxone sodium + Daptomycin + Levofloxacin + Vancomycin hydrochloride,1
+4,Clonidine hydrochloride + Escitalopram oxalate + Hydroxyzine hydrochloride + Quetiapine fumarate,1
+2,Colchicine + Hydroxychloroquine sulfate,1
+2,Allopurinol + Silodosin,1
+2,Solifenacin succinate + Trazodone hydrochloride,1
+3,Methylprednisolone + Sirolimus + Tacrolimus,1
+2,Gemcitabine hydrochloride + Paclitaxel,1
+4,Apixaban + Folic acid + Metoprolol succinate + Rosuvastatin calcium,1
+3,Allopurinol + Hydralazine hydrochloride + Methotrexate sodium,1
+4,Azathioprine + Cyclophosphamide + Hydroxychloroquine sulfate + Mycophenolate mofetil,1
+3,Furosemide + Hydrochlorothiazide + Ramipril,1
+3,Duloxetine hydrochloride + Quetiapine fumarate + Trihexyphenidyl hydrochloride,1
+2,Ibuprofen + Sumatriptan succinate,1
+3,Allopurinol + Inotersen sodium + Simvastatin,1
+2,Ciprofloxacin hydrochloride + Levofloxacin,1
+3,Capecitabine + Morphine sulfate + Uridine triacetate,1
+4,Dexamethasone + Levothyroxine sodium + Metronidazole + Vancomycin hydrochloride,1
+2,Ambrisentan + Tadalafil,1
+3,Cyclosporine + Ibrutinib + Ofatumumab,1
+2,Metformin hydrochloride + Valsartan,1
+4,Hydrocortisone acetate + Levothyroxine sodium + Metronidazole + Vancomycin hydrochloride,1
+2,Cephalexin + Gabapentin,1
+2,Escitalopram oxalate + Omeprazole,1
+4,Empagliflozin + Eplerenone + Furosemide + Ramipril,1
+3,Axitinib + Belzutifan + Edoxaban tosylate,1
+2,Linagliptin + Metformin hydrochloride,1
+2,Belumosudil mesylate + Tacrolimus,1
+3,Letrozole + Leuprolide acetate + Ribociclib succinate,1
+2,Hydroxychloroquine sulfate + Minoxidil,1
+3,Empagliflozin + Spironolactone + Ustekinumab,1
+4,Capecitabine + Fluorouracil + Irinotecan hydrochloride + Oxaliplatin,1
+4,Cetirizine hydrochloride + Fluconazole + Nystatin + Somatropin,1
+4,Aspirin + Atorvastatin calcium + Losartan potassium + Tamsulosin hydrochloride,1
+2,Carboplatin + Cisplatin,1
+3,Etoposide + Everolimus + Mycophenolate mofetil,1
+4,Amantadine hydrochloride + Cyproheptadine hydrochloride + Famotidine + Valproic acid,1
+4,Carbamazepine + Natalizumab + Pregabalin + Simvastatin,1
+4,Budesonide + Cetirizine hydrochloride + Methylprednisolone + Selumetinib sulfate,1
+2,Empagliflozin + Spironolactone,1
+3,Choriogonadotropin alfa + Levothyroxine sodium + Metoprolol succinate,1
+4,Fluorouracil + Levoleucovorin + Oxaliplatin + Panitumumab,1
+2,Aspirin + Tacrolimus,1
+4,Atorvastatin calcium + Dapagliflozin + Ketoprofen + Pantoprazole sodium,1
+3,Empagliflozin + Glimepiride + Telmisartan,1
+2,Alprazolam + Pantoprazole sodium,1
+4,Diazepam + Ketoprofen + Trazodone hydrochloride + Vancomycin hydrochloride,1
+3,Carboplatin + Esomeprazole sodium + Paclitaxel,1
+4,Methimazole + Pralsetinib + Rosuvastatin calcium + Tamsulosin hydrochloride,1
+4,Azathioprine + Labetalol hydrochloride + Mycophenolate mofetil + Tacrolimus,1
+2,Capecitabine + Morphine sulfate,1
+4,Atenolol + Mirtazapine + Pregabalin + Tramadol hydrochloride,1
+2,Duloxetine hydrochloride + Teriparatide acetate,1
+2,Levothyroxine sodium + Telmisartan,1
+2,Lamotrigine + Lorazepam,1
+4,Bupropion hydrochloride + Empagliflozin + Trazodone hydrochloride + Venlafaxine hydrochloride,1
+3,Dapagliflozin + Irbesartan + Semaglutide,1
+3,Dimenhydrinate + Ketorolac tromethamine + Topiramate,1
+4,Furosemide + Gabapentin + Spironolactone + Thiamine hydrochloride,1
+3,Ambrisentan + Norethindrone acetate + Tadalafil,1
+4,Ketorolac tromethamine + Methocarbamol + Morphine sulfate + Tamsulosin hydrochloride,1
+2,Amlodipine besylate + Hydralazine hydrochloride,1
+3,Hydroxychloroquine sulfate + Sertraline hydrochloride + Tadalafil,1
+4,Allopurinol + Dapagliflozin + Inotersen sodium + Simvastatin,1
+3,Baricitinib + Methotrexate sodium + Upadacitinib,1
+4,Carboplatin + Cyclophosphamide + Docetaxel + Doxorubicin hydrochloride,1
+2,Alpelisib + Metformin hydrochloride,1
+2,Apixaban + Everolimus,1
+3,Azilsartan kamedoxomil + Celecoxib + Furosemide,1
+4,Apixaban + Furosemide + Spironolactone + Valsartan,1
+3,Opicapone + Paroxetine hydrochloride + Safinamide mesylate,1
+4,Linagliptin + Methylprednisolone + Pantoprazole sodium + Voriconazole,1
+2,Eculizumab + Hydroxychloroquine sulfate,1
+4,Amlodipine besylate + Esomeprazole sodium + Metformin hydrochloride + Simvastatin,1
+2,Amoxicillin + Bortezomib,1
+4,Baclofen + Dalfampridine + Escitalopram oxalate + Upadacitinib,1
+3,Adalimumab + Calcium acetate + Ursodiol,1
+2,Lenvatinib mesylate + Loperamide hydrochloride,1
+3,Azithromycin + Ciprofloxacin hydrochloride + Tigecycline,1
+4,Amlodipine besylate + Hydralazine hydrochloride + Lisinopril + Metformin hydrochloride,1
+3,Mycophenolate mofetil + Rivaroxaban + Tacrolimus,1
+2,Pantoprazole sodium + Sodium oxybate,1
+2,Escitalopram oxalate + Guaifenesin,1
+3,Amlodipine besylate + Aspirin + Pravastatin sodium,1
+4,Aspirin + Levothyroxine sodium + Metformin hydrochloride + Metoprolol succinate,1
+4,Amitriptyline hydrochloride + Levothyroxine sodium + Losartan potassium + Trazodone hydrochloride,1
+3,Celecoxib + Diclofenac sodium + Ruxolitinib phosphate,1
+4,Bevacizumab + Lenvatinib mesylate + Regorafenib + Sorafenib tosylate,1
+4,Amiodarone hydrochloride + Bisoprolol fumarate + Dapagliflozin + Spironolactone,1
+3,Bevacizumab + Capecitabine + Irinotecan hydrochloride,1
+2,Hydroxychloroquine sulfate + Sulfasalazine,1
+3,Empagliflozin + Metoprolol succinate + Pioglitazone hydrochloride,1
+3,Ganciclovir sodium + Prednisone + Tacrolimus,1
+4,Donepezil hydrochloride + Olmesartan medoxomil + Tamsulosin hydrochloride + Vibegron,1
+3,Amlodipine besylate + Atorvastatin calcium + Fenofibrate,1
+4,Cyclosporine + Mycophenolate mofetil + Prednisone + Tacrolimus,1
+4,Amlodipine besylate + Aspirin + Metoprolol succinate + Ondansetron hydrochloride,1
+3,Bortezomib + Dexamethasone + Ursodiol,1
+3,Mycophenolate mofetil + Rosuvastatin calcium + Voclosporin,1
+2,Bisoprolol fumarate + Edoxaban tosylate,1
+4,Chlorpromazine hydrochloride + Olanzapine + Trifluoperazine hydrochloride + Trihexyphenidyl hydrochloride,1
+3,Carfilzomib + Eculizumab + Pomalidomide,1
+2,Azithromycin + Omeprazole,1
+2,Aspirin + Hydroxyurea,1
+2,Amphotericin B + Voriconazole,1
+2,Atorvastatin calcium + Lansoprazole,1
+2,Givosiran sodium + Rosuvastatin calcium,1
+3,Caspofungin acetate + Tacrolimus + Voriconazole,1
+2,Dapagliflozin + Linagliptin,1
+4,Aripiprazole + Epinephrine + Lisdexamfetamine dimesylate + Loratadine,1
+2,Bupropion hydrochloride + Prednisone,1
+3,Cisplatin + Glimepiride + Warfarin sodium,1
+4,Amlodipine besylate + Enalapril maleate + Rosuvastatin calcium + Verapamil hydrochloride,1
+3,Alendronate sodium + Apixaban + Tepotinib hydrochloride,1
+3,Carboplatin + Olaparib + Paclitaxel,1
+2,Budesonide + Bumetanide,1
+3,Bisoprolol fumarate + Tolvaptan + Valsartan,1
+3,Adalimumab + Methotrexate sodium + Upadacitinib,1
+4,Maralixibat chloride + Nifedipine + Tacrolimus + Ursodiol,1
+4,Ciprofloxacin hydrochloride + Ibuprofen + Ketamine hydrochloride + Lidocaine,1
+4,Amlodipine besylate + Atorvastatin calcium + Dapagliflozin + Nebivolol hydrochloride,1
+3,Adalimumab + Azithromycin + Ciprofloxacin hydrochloride,1
+4,Heparin sodium + Methylprednisolone + Mycophenolate mofetil + Tacrolimus,1
+4,Bisoprolol fumarate + Metformin hydrochloride + Omeprazole + Semaglutide,1
+4,Acetaminophen + Diphenhydramine hydrochloride + Hydrocortisone acetate + Infliximab,1
+2,Fluconazole + Valganciclovir hydrochloride,1
+3,Calcium acetate + Osimertinib mesylate + Spironolactone,1
+3,Acyclovir + Candesartan cilexetil + Rasburicase,1
+2,Fluorouracil + Leucovorin calcium,1
+2,Carvedilol + Levothyroxine sodium,1
+3,Azacitidine + Ramipril + Venetoclax,1
+4,Aripiprazole + Benztropine mesylate + Sertraline hydrochloride + Spironolactone,1
+2,Febuxostat + Olmesartan medoxomil,1
+2,Crizotinib + Simvastatin,1
+3,Carbamazepine + Levetiracetam + Zonisamide,1
+4,Apixaban + Cabozantinib s-malate + Furosemide + Lenvatinib mesylate,1
+3,Allopurinol + Cefepime hydrochloride + Vancomycin hydrochloride,1
+2,Amphotericin B + Tacrolimus,1
+3,Apalutamide + Hydrochlorothiazide + Relugolix,1
+3,Basiliximab + Infliximab + Mycophenolate mofetil,1
+4,Apixaban + Furosemide + Prednisolone + Tolvaptan,1
+3,Carboplatin + Etoposide + Osimertinib mesylate,1
+4,Cisplatin + Gefitinib + Irinotecan hydrochloride + Pemetrexed disodium,1
+2,Methylprednisolone + Pyridostigmine bromide,1
+2,Clopidogrel bisulfate + Lansoprazole,1
+2,Cytarabine + Thiotepa,1
+2,Lorlatinib + Oxycodone hydrochloride,1
+2,Prednisone + Sirolimus,1
+2,Allopurinol + Spironolactone,1
+3,Atorvastatin calcium + Hydrochlorothiazide + Sertraline hydrochloride,1
+2,Allopurinol + Dapagliflozin,1
+2,Foscarnet sodium + Ganciclovir sodium,1
+3,Finerenone + Linagliptin + Semaglutide,1
+3,Allopurinol + Letrozole + Semaglutide,1
+3,Desmopressin acetate + Levothyroxine sodium + Risperidone,1
+3,Prednisone + Tacrolimus + Voriconazole,1
+2,Dapagliflozin + Saxagliptin hydrochloride,1
+2,Bosentan + Omeprazole,1
+4,Aspirin + Atorvastatin calcium + Bisoprolol fumarate + Clopidogrel bisulfate,1
+2,Darolutamide + Docetaxel,1
+2,Hydrocortisone acetate + Mesalamine,1
+4,Atorvastatin calcium + Linagliptin + Metformin hydrochloride + Pantoprazole sodium,1
+2,Fulvestrant + Metformin hydrochloride,1
+4,Azithromycin + Moxifloxacin hydrochloride + Tigecycline + Vancomycin hydrochloride,1
+3,Atorvastatin calcium + Montelukast sodium + Zoledronic acid,1
+3,Darunavir + Dolutegravir sodium + Ritonavir,1
+2,Allopurinol + Levothyroxine sodium,1
+2,Bisoprolol fumarate + Panitumumab,1
+3,Furosemide + Omeprazole + Rosuvastatin calcium,1
+3,Amlodipine besylate + Doxazosin mesylate + Ibrutinib,1
+3,Benztropine mesylate + Lorazepam + Risperidone,1
+3,Budesonide + Febuxostat + Sodium bicarbonate,1
+3,Apixaban + Dabigatran etexilate mesylate + Rivaroxaban,1
+2,Apixaban + Rivaroxaban,1
+4,Acetaminophen + Atorvastatin calcium + Escitalopram oxalate + Pantoprazole sodium,1
+2,Allopurinol + Empagliflozin,1
+3,Acetaminophen + Dopamine hydrochloride + Ibuprofen,1
+2,Allopurinol + Ergocalciferol,1
+3,Hydrocortisone acetate + Levofloxacin + Methylprednisolone,1
+2,Empagliflozin + Sitagliptin phosphate,1
+2,Ponatinib hydrochloride + Vincristine sulfate,1
+2,Cabozantinib s-malate + Prednisolone,1
+4,Canakinumab + Celecoxib + Deflazacort + Methotrexate sodium,1
+2,Acalabrutinib + Cetirizine hydrochloride,1
+2,Eplerenone + Furosemide,1
+2,Lenvatinib mesylate + Vemurafenib,1
+2,Infliximab + Prednisone,1
+2,Lenvatinib mesylate + Ondansetron hydrochloride,1
+3,Abemaciclib + Escitalopram oxalate + Fulvestrant,1
+2,Omeprazole + Rivaroxaban,1
+2,Metformin hydrochloride + Olmesartan medoxomil,1
+3,Amphotericin B + Letermovir + Tacrolimus,1
+2,Bevacizumab + Trastuzumab,1
+3,Clonazepam + Mirabegron + Rivastigmine tartrate,1
+4,Atorvastatin calcium + Empagliflozin + Mesalamine + Semaglutide,1
+4,Amlodipine besylate + Metformin hydrochloride + Rosuvastatin calcium + Sitagliptin phosphate,1
+4,Cyproheptadine hydrochloride + Enalapril maleate + Famotidine + Methotrexate sodium,1
+2,Osilodrostat phosphate + Spironolactone,1
+2,Dexamethasone + Hydrocortisone acetate,1
+4,Albuterol + Hydrocortisone acetate + Prednisone + Semaglutide,1
+2,Empagliflozin + Tacrolimus,1
+2,Sildenafil citrate + Tadalafil,1
+4,Atorvastatin calcium + Bisacodyl + Hydrochlorothiazide + Lisinopril,1
+2,Eculizumab + Pegcetacoplan,1
+3,Abiraterone acetate + Leuprolide acetate + Prednisone,1
+3,Albuterol + Hydroxyzine hydrochloride + Montelukast sodium,1
+4,Atorvastatin calcium + Carvedilol + Lactulose + Rifaximin,1
+4,Metformin hydrochloride + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+4,Cannabidiol + Clobazam + Lacosamide + Rufinamide,1
+3,Atorvastatin calcium + Rosuvastatin calcium + Simvastatin,1
+3,Methylprednisolone + Prednisolone + Tacrolimus,1
+3,Letermovir + Prednisone + Tacrolimus,1
+3,Acetaminophen + Polyethylene glycol 3350 + Selumetinib sulfate,1
+2,Ketorolac tromethamine + Pregabalin,1
+2,Clozapine + Metformin hydrochloride,1
+2,Aspirin + Losartan potassium,1
+3,Abiraterone acetate + Megestrol acetate + Prednisone,1
+3,Amoxicillin + Cefazolin sodium + Doxycycline,1
+2,Propofol + Rocuronium bromide,1
+2,Ibrutinib + Relugolix,1
+4,Abemaciclib + Fulvestrant + Levothyroxine sodium + Rosuvastatin calcium,1
+3,Acetaminophen + Lorazepam + Propafenone hydrochloride,1
+4,Epinephrine + Esomeprazole sodium + Midazolam hydrochloride + Sufentanil citrate,1
+2,Hydralazine hydrochloride + Semaglutide,1
+3,Atorvastatin calcium + Pantoprazole sodium + Trazodone hydrochloride,1
+4,Ceftriaxone sodium + Pantoprazole sodium + Prednisone + Rosuvastatin calcium,1
+4,Aspirin + Darbepoetin alfa + Lansoprazole + Linagliptin,1
+4,Cyclosporine + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+4,Bevacizumab + Carboplatin + Etoposide + Paclitaxel,1
+2,Acyclovir + Norepinephrine bitartrate,1
+4,Aspirin + Atorvastatin calcium + Dipyridamole + Pantoprazole sodium,1
+2,Rosuvastatin calcium + Voclosporin,1
+4,Carvedilol + Hydrochlorothiazide + Irbesartan + Voclosporin,1
+2,Diltiazem hydrochloride + Voclosporin,1
+4,Duloxetine hydrochloride + Hydroxychloroquine sulfate + Levothyroxine sodium + Voclosporin,1
+2,Metolazone + Voclosporin,1
+2,Pregabalin + Voclosporin,1
+3,Diltiazem hydrochloride + Prednisone + Voclosporin,1
+3,Fluorouracil + Ibuprofen + Leucovorin calcium,1
+2,Atenolol + Calcitriol,1
+3,Folic acid + Levetiracetam + Lorlatinib,1
+2,Ambrisentan + Sildenafil citrate,1
+4,Atenolol + Candesartan cilexetil + Dexamethasone + Furosemide,1
+3,Cisplatin + Osimertinib mesylate + Pemetrexed disodium,1
+2,Furosemide + Tolvaptan,1
+2,Trastuzumab + Tucatinib,1
+2,Clobazam + Levetiracetam,1
+3,Ketoconazole + Metyrapone + Octreotide acetate,1
+3,Prednisone + Rosuvastatin calcium + Tacrolimus,1
+4,Atorvastatin calcium + Furosemide + Omeprazole + Rosuvastatin calcium,1
+2,Hydroxychloroquine sulfate + Tacrolimus,1
+2,Acyclovir + Dexamethasone,1
+2,Ezetimibe + Metformin hydrochloride,1
+2,Naproxen + Vancomycin hydrochloride,1
+3,Hydrochlorothiazide + Ketorolac tromethamine + Ramipril,1
+3,Cyclophosphamide + Dexamethasone + Lenalidomide,1
+2,Candesartan cilexetil + Irbesartan,1
+2,Olaparib + Rucaparib camsylate,1
+2,Cefazolin sodium + Naproxen,1
+3,Albuterol + Allopurinol + Amlodipine besylate,1
+2,Morphine sulfate + Vibegron,1
+2,Nifedipine + Paroxetine hydrochloride,1
+4,Amoxicillin + Aspirin + Heparin sodium + Hydrocortisone acetate,1
+2,Irbesartan + Metoprolol succinate,1
+3,Acetaminophen + Ibuprofen + Naproxen,1
+3,Aspirin + Hydroxychloroquine sulfate + Methotrexate sodium,1
+2,Lenvatinib mesylate + Tacrolimus,1
+3,Acyclovir + Furosemide + Oxacillin sodium,1
+4,Apixaban + Atorvastatin calcium + Metoprolol succinate + Mirtazapine,1
+4,Amiodarone hydrochloride + Digoxin + Furosemide + Metoprolol succinate,1
+3,Ibuprofen + Sertraline hydrochloride + Sumatriptan succinate,1
+4,Albuterol + Levothyroxine sodium + Prednisone + Semaglutide,1
+4,Acetaminophen + Calcium acetate + Dimethyl fumarate + Pantoprazole sodium,1
+3,Folic acid + Lansoprazole + Semaglutide,1
+3,Levothyroxine sodium + Osilodrostat phosphate + Spironolactone,1
+3,Mifepristone + Niacin + Semaglutide,1
+2,Propofol + Remifentanil hydrochloride,1
+4,Acyclovir + Anakinra + Caspofungin acetate + Dexamethasone,1
+4,Amlodipine besylate + Empagliflozin + Pitavastatin calcium + Zoledronic acid,1
+4,Prednisone + Sirolimus + Tacrolimus + Trazodone hydrochloride,1
+4,Acyclovir + Aspirin + Dexamethasone + Pomalidomide,1
+4,Corticotropin + Metoprolol succinate + Pitavastatin calcium + Warfarin sodium,1
+2,Celecoxib + Ketorolac tromethamine,1
+2,Atorvastatin calcium + Celecoxib,1
+3,Capecitabine + Cisplatin + Trastuzumab,1
+2,Amlodipine besylate + Tadalafil,1
+3,Atovaquone + Azathioprine + Ethambutol hydrochloride,1
+2,Ceftriaxone sodium + Meropenem,1
+2,Agalsidase beta + Semaglutide,1
+3,Clonidine hydrochloride + Morphine sulfate + Oxycodone hydrochloride,1
+3,Canagliflozin + Hydrochlorothiazide + Valsartan,1
+4,Doxazosin mesylate + Escitalopram oxalate + Estazolam + Olanzapine,1
+3,Ciprofloxacin hydrochloride + Doxycycline + Rifampin,1
+4,Aspirin + Estradiol valerate + Furosemide + Gabapentin,1
+4,Cyclosporine + Methylprednisolone + Mycophenolate mofetil + Prednisone,1
+4,Basiliximab + Everolimus + Methylprednisolone + Tacrolimus,1
+2,Metformin hydrochloride + Rosuvastatin calcium,1
+2,Abaloparatide + Alendronate sodium,1
+2,Cyclosporine + Prednisone,1
+4,Capecitabine + Irinotecan hydrochloride + Oxaliplatin + Panitumumab,1
+3,Bevacizumab + Lenvatinib mesylate + Sorafenib tosylate,1
+3,Acalabrutinib + Cyanocobalamin + Diphenhydramine hydrochloride,1
+3,Carboplatin + Paclitaxel + Pantoprazole sodium,1
+4,Cyclophosphamide + Fludarabine phosphate + Methotrexate sodium + Mycophenolate mofetil,1
+4,Amlodipine besylate + Hydrochlorothiazide + Lisinopril + Voclosporin,1
+3,Clobazam + Lacosamide + Lamotrigine,1
+3,Furosemide + Hydrocortisone acetate + Osilodrostat phosphate,1
+3,Amlodipine besylate + Levothyroxine sodium + Prednisone,1
+2,Cinacalcet hydrochloride + Tenapanor hydrochloride,1
+2,Adalimumab + Upadacitinib,1
+3,Cetirizine hydrochloride + Doxycycline + Lovastatin,1
+3,Amitriptyline hydrochloride + Infliximab + Mesalamine,1
+3,Cyclophosphamide + Filgrastim + Plerixafor,1
+4,Amlodipine besylate + Aspirin + Lenalidomide + Trazodone hydrochloride,1
+2,Ibuprofen + Montelukast sodium,1
+4,Dopamine hydrochloride + Midodrine hydrochloride + Pseudoephedrine hydrochloride + Terbutaline sulfate,1
+2,Losartan potassium + Tacrolimus,1
+3,Empagliflozin + Semaglutide + Valsartan,1
+4,Amlodipine besylate + Fluconazole + Metformin hydrochloride + Methylprednisolone,1
+2,Adalimumab + Prednisone,1
+2,Loperamide hydrochloride + Osimertinib mesylate,1
+3,Atorvastatin calcium + Cyclosporine + Metformin hydrochloride,1
+4,Atorvastatin calcium + Famotidine + Ibuprofen + Ramipril,1
+2,Amphotericin B + Linezolid,1
+2,Infliximab + Pantoprazole sodium,1
+4,Bisoprolol fumarate + Famotidine + Febuxostat + Valsartan,1
+2,Pegcetacoplan + Prednisolone,1
+3,Amifampridine phosphate + Mesalamine + Pyridostigmine bromide,1
+3,Atropine + Carvedilol + Dopamine hydrochloride,1
+4,Atorvastatin calcium + Doxazosin mesylate + Metoprolol succinate + Rivaroxaban,1
+2,Albuterol + Amikacin sulfate,1
+3,Mesalamine + Metronidazole + Prednisone,1
+4,Doravirine + Isoniazid + Pantoprazole sodium + Rifabutin,1
+2,Levothyroxine sodium + Naltrexone hydrochloride,1
+2,Furosemide + Osilodrostat phosphate,1
+2,Entecavir + Sorafenib tosylate,1
+2,Baclofen + Midodrine hydrochloride,1
+3,Acalabrutinib + Acetaminophen + Aspirin,1
+4,Apixaban + Atorvastatin calcium + Lenalidomide + Omeprazole,1
+2,Apixaban + Lisinopril,1
+4,Fluoxetine hydrochloride + Hydroxyzine hydrochloride + Omeprazole + Pantoprazole sodium,1
+2,Empagliflozin + Tamsulosin hydrochloride,1
+4,Amlodipine besylate + Bisoprolol fumarate + Pregabalin + Ramipril,1
+4,Aripiprazole + Bupropion hydrochloride + Diroximel fumarate + Topiramate,1
+4,Acetaminophen + Bisoprolol fumarate + Levothyroxine sodium + Nifedipine,1
+4,Alemtuzumab + Mycophenolate mofetil + Prednisone + Tacrolimus,1
+3,Atorvastatin calcium + Indapamide + Ramipril,1
+3,Cyclophosphamide + Fludarabine phosphate + Thiotepa,1
+4,Everolimus + Hydrocortisone acetate + Mycophenolate mofetil + Tacrolimus,1
+3,Dobutamine hydrochloride + Epinephrine + Protamine sulfate,1
+2,Aspirin + Fenofibrate,1
+2,Azathioprine + Lenalidomide,1
+2,Cabozantinib s-malate + Imatinib mesylate,1
+2,Atomoxetine hydrochloride + Dichlorphenamide,1
+3,Decitabine + Ivosidenib + Venetoclax,1
+2,Hydroxychloroquine sulfate + Prednisolone,1
+4,Allopurinol + Apixaban + Esomeprazole sodium + Tamsulosin hydrochloride,1
+3,Fosphenytoin sodium + Phenobarbital sodium + Propofol,1
+2,Acyclovir + Vancomycin hydrochloride,1
+4,Azithromycin + Ceftriaxone sodium + Dexamethasone + Remdesivir,1
+2,Phytonadione + Simvastatin,1
+4,Cyclophosphamide + Fludarabine phosphate + Romiplostim + Thiotepa,1
+3,Apixaban + Empagliflozin + Tolvaptan,1
+3,Alprazolam + Metformin hydrochloride + Metoprolol succinate,1
+3,Atorvastatin calcium + Pantoprazole sodium + Paroxetine hydrochloride,1
+4,Mycophenolate mofetil + Prednisone + Tacrolimus + Valganciclovir hydrochloride,1
+4,Cyclophosphamide + Dactinomycin + Mesna + Vincristine sulfate,1
+2,Levothyroxine sodium + Tramadol hydrochloride,1
+2,Aspirin + Atorvastatin calcium,1
+3,Aspirin + Clopidogrel bisulfate + Pantoprazole sodium,1
+4,Calcitriol + Calcium acetate + Levothyroxine sodium + Pralsetinib,1
+3,Bisoprolol fumarate + Empagliflozin + Spironolactone,1
+3,Acalabrutinib + Doxorubicin hydrochloride + Venetoclax,1
+3,Ketorolac tromethamine + Tamsulosin hydrochloride + Upadacitinib,1
+4,Furosemide + Phytonadione + Spironolactone + Vancomycin hydrochloride,1
+4,Clonazepam + Ketamine hydrochloride + Lactulose + Thiamine hydrochloride,1
+2,Dexamethasone + Palonosetron hydrochloride,1
+2,Empagliflozin + Lorlatinib,1
+4,Atenolol + Captopril + Lorazepam + Venlafaxine hydrochloride,1
+4,Acetaminophen + Ketorolac tromethamine + Ondansetron hydrochloride + Rimegepant sulfate,1
+2,Cyanocobalamin + Loperamide hydrochloride,1
+3,Bevacizumab + Cisplatin + Gemcitabine hydrochloride,1
+3,Exemestane + Fulvestrant + Palbociclib,1
+4,Bortezomib + Cyclophosphamide + Fludarabine phosphate + Thiotepa,1
+3,Acetaminophen + Bupropion hydrochloride + Levetiracetam,1
+2,Methotrexate sodium + Temozolomide,1
+2,Mitomycin + Sodium bicarbonate,1
+4,Abemaciclib + Fulvestrant + Letrozole + Palbociclib,1
+2,Duloxetine hydrochloride + Topiramate,1
+3,Ibuprofen + Prednisolone + Upadacitinib,1
+2,Adalimumab + Azathioprine,1
+4,Acetylcysteine + Lorazepam + Propafenone hydrochloride + Sodium bicarbonate,1
+3,Amiloride hydrochloride + Aspirin + Sodium bicarbonate,1
+3,Allopurinol + Amlodipine besylate + Simvastatin,1
+2,Acyclovir + Bisoprolol fumarate,1
+4,Losartan potassium + Methotrexate sodium + Metoprolol succinate + Temozolomide,1
+2,Allopurinol + Pantoprazole sodium,1
+3,Granisetron hydrochloride + Methotrexate sodium + Pantoprazole sodium,1
+3,Basiliximab + Cyclosporine + Everolimus,1
+2,Gabapentin + Mycophenolate mofetil,1
+2,Candesartan cilexetil + Ezetimibe,1
+4,Cytarabine + Ifosfamide + Leucovorin calcium + Methotrexate sodium,1
+4,Digoxin + Flecainide acetate + Metoprolol succinate + Propranolol hydrochloride,1
+2,Cetuximab + Docetaxel,1
+2,Aspirin + Lansoprazole,1
+2,Caspofungin acetate + Ganciclovir sodium,1
+2,Amphotericin B + Prednisone,1
+3,Cinacalcet hydrochloride + Darbepoetin alfa + Warfarin sodium,1
+2,Teriflunomide + Upadacitinib,1
+4,Atorvastatin calcium + Budesonide + Empagliflozin + Losartan potassium,1
+4,Carbamazepine + Dexamethasone + Hydrocortisone acetate + Levothyroxine sodium,1
+4,Levothyroxine sodium + Mycophenolate mofetil + Nebivolol hydrochloride + Prednisolone,1
+3,Bisoprolol fumarate + Rosuvastatin calcium + Warfarin sodium,1
+3,Ifosfamide + Leucovorin calcium + Methotrexate sodium,1
+4,Anakinra + Cyclosporine + Prednisone + Rilonacept,1
+3,Cisplatin + Lomustine + Vincristine sulfate,1
+3,Amlodipine besylate + Gabapentin + Penicillin v potassium,1
+4,Eculizumab + Erythropoietin + Heparin sodium + Hydroxyurea,1
+3,Bosentan + Macitentan + Tadalafil,1
+4,Dimenhydrinate + Morphine sulfate + Pantoprazole sodium + Venlafaxine hydrochloride,1
+3,Alemtuzumab + Fludarabine phosphate + Thiotepa,1
+4,Everolimus + Hydroxychloroquine sulfate + Mycophenolate mofetil + Tacrolimus,1
+2,Losartan potassium + Nilotinib hydrochloride,1
+2,Cetirizine hydrochloride + Nilotinib hydrochloride,1
+3,Gabapentin + Nilotinib hydrochloride + Rosuvastatin calcium,1
+3,Leucovorin calcium + Methotrexate sodium + Temozolomide,1
+3,Empagliflozin + Finerenone + Valsartan,1
+2,Cariprazine hydrochloride + Linaclotide,1
+4,Amlodipine besylate + Hydrocortisone acetate + Lenvatinib mesylate + Levothyroxine sodium,1
+2,Fulvestrant + Nifedipine,1
+3,Folic acid + Levothyroxine sodium + Rosuvastatin calcium,1
+3,Fulvestrant + Ribociclib succinate + Telmisartan,1
+3,Dopamine hydrochloride + Epinephrine + Hydroxocobalamin,1
+2,Anakinra + Prednisone,1
+4,Carvedilol + Isosorbide dinitrate + Nicardipine hydrochloride + Nifedipine,1
+3,Acalabrutinib + Diclofenac sodium + Ibuprofen,1
+2,Folic acid + Methotrexate sodium,1
+2,Colchicine + Indomethacin,1
+3,Moxifloxacin hydrochloride + Tedizolid phosphate + Tigecycline,1
+2,Furosemide + Ramipril,1
+3,Amlodipine besylate + Atorvastatin calcium + Hydroxyzine hydrochloride,1
+3,Dextroamphetamine sulfate + Fluoxetine hydrochloride + Quetiapine fumarate,1
+4,Alemtuzumab + Levothyroxine sodium + Methylprednisolone + Terbutaline sulfate,1
+4,Cetirizine hydrochloride + Eteplirsen + Lisinopril + Zoledronic acid,1
+3,Adalimumab + Azithromycin + Vancomycin hydrochloride,1
+2,Ciprofloxacin hydrochloride + Metformin hydrochloride,1
+4,Cetirizine hydrochloride + Ibuprofen + Levothyroxine sodium + Losartan potassium,1
+3,Diltiazem hydrochloride + Metoprolol succinate + Ozanimod hydrochloride,1
+3,Empagliflozin + Eplerenone + Pantoprazole sodium,1
+4,Aspirin + Glipizide + Lisinopril + Rosuvastatin calcium,1
+2,Golimumab + Mesalamine,1
+4,Alendronate sodium + Cyclosporine + Prednisolone + Pyridostigmine bromide,1
+3,Bisoprolol fumarate + Edoxaban tosylate + Empagliflozin,1
+3,Eltrombopag olamine + Pregabalin + Rabeprazole sodium,1
+4,Alemtuzumab + Interferon beta-1a + Levothyroxine sodium + Terbutaline sulfate,1
+2,Peginterferon alfa-2a + Ribavirin,1
+2,Celecoxib + Gemcitabine hydrochloride,1
+3,Dalteparin sodium + Folic acid + Prednisolone,1
+2,Dapagliflozin + Ticagrelor,1
+4,Lactulose + Meropenem + Tigecycline + Torsemide,1
+3,Folic acid + Hydroxychloroquine sulfate + Methotrexate sodium,1
+2,Carvedilol + Cyanocobalamin,1
+3,Brivaracetam + Lamotrigine + Valproic acid,1
+2,Apixaban + Furosemide,1
+3,Azilsartan kamedoxomil + Cisplatin + Fluorouracil,1
+4,Bupropion hydrochloride + Ketamine hydrochloride + Pregabalin + Sertraline hydrochloride,1
+2,Moxifloxacin hydrochloride + Pregabalin,1
+2,Bevacizumab + Capecitabine,1
+4,Acetaminophen + Acyclovir + Ondansetron hydrochloride + Oxycodone hydrochloride,1
+2,Amlodipine besylate + Desmopressin acetate,1
+3,Amoxicillin + Dexamethasone + Ibuprofen,1
+2,Candesartan cilexetil + Levothyroxine sodium,1
+2,Irbesartan + Torsemide,1
+2,Docetaxel + Gemcitabine hydrochloride,1
+2,Dapagliflozin + Ivabradine hydrochloride,1
+4,Fluconazole + Posaconazole + Tacrolimus + Vancomycin hydrochloride,1
+4,Ganciclovir sodium + Prednisolone + Sirolimus + Tacrolimus,1
+2,Alendronate sodium + Zoledronic acid,1
+3,Mycophenolate mofetil + Posaconazole + Tacrolimus,1
+4,Clonazepam + Pantoprazole sodium + Tacrolimus + Venlafaxine hydrochloride,1
+4,Apixaban + Atorvastatin calcium + Dapagliflozin + Metformin hydrochloride,1
+2,Baricitinib + Upadacitinib,1
+4,Budesonide + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+2,Oxcarbazepine + Paliperidone,1
+2,Oxazepam + Paroxetine hydrochloride,1
+4,Ciprofloxacin hydrochloride + Dobutamine hydrochloride + Metronidazole + Vancomycin hydrochloride,1
+4,Atorvastatin calcium + Febuxostat + Spironolactone + Tolvaptan,1
+2,Aripiprazole + Risperidone,1
+3,Gabapentin + Methotrexate sodium + Mycophenolate mofetil,1
+4,Cisplatin + Docetaxel + Fluorouracil + Pegfilgrastim,1
+4,Atorvastatin calcium + Clopidogrel bisulfate + Empagliflozin + Metoprolol succinate,1
+2,Azathioprine + Mesalamine,1
+3,Folic acid + Methotrexate sodium + Upadacitinib,1
+2,Ciprofloxacin hydrochloride + Doxycycline,1
+4,Fluoxetine hydrochloride + Levothyroxine sodium + Omeprazole + Upadacitinib,1
+2,Darbepoetin alfa + Erythropoietin,1
+2,Ibuprofen + Nicardipine hydrochloride,1
+4,Cytarabine + Daunorubicin hydrochloride + Prednisone + Tacrolimus,1
+3,Amphotericin B + Itraconazole + Rifampin,1
+3,Amlodipine besylate + Diclofenac sodium + Gabapentin,1
+2,Diclofenac sodium + Ibuprofen,1
+2,Diclofenac sodium + Indomethacin,1
+2,Adalimumab + Azithromycin,1
+3,Acyclovir + Enoxaparin sodium + Pantoprazole sodium,1
+4,Doxazosin mesylate + Edoxaban tosylate + Flecainide acetate + Simvastatin,1
+3,Cyclophosphamide + Foscarnet sodium + Prednisolone,1
+4,Bevacizumab + Carboplatin + Irinotecan hydrochloride + Paclitaxel,1
+4,Atorvastatin calcium + Bisoprolol fumarate + Levothyroxine sodium + Ribociclib succinate,1
+4,Cisplatin + Furosemide + Gemcitabine hydrochloride + Spironolactone,1
+3,Ezetimibe + Inclisiran sodium + Rosuvastatin calcium,1
+2,Enoxaparin sodium + Warfarin sodium,1
+2,Cannabidiol + Tacrolimus,1
+3,Glipizide + Losartan potassium + Metformin hydrochloride,1
+3,Linezolid + Meropenem + Tigecycline,1
+2,Desmopressin acetate + Prednisolone,1
+2,Amlodipine besylate + Apremilast,1
+4,Azilsartan kamedoxomil + Carvedilol + Rosuvastatin calcium + Warfarin sodium,1
+2,Dexamethasone + Metformin hydrochloride,1
+3,Cisplatin + Docetaxel + Trastuzumab,1
+2,Azathioprine + Prednisolone,1
+4,Mycophenolate mofetil + Pantoprazole sodium + Prednisolone + Tacrolimus,1
+4,Atovaquone + Famciclovir + Lenalidomide + Pantoprazole sodium,1
+4,Letermovir + Prednisolone + Tacrolimus + Valganciclovir hydrochloride,1
+3,Cannabidiol + Clobazam + Valproic acid,1
+3,Apixaban + Mesalamine + Rosuvastatin calcium,1
+2,Dexamethasone + Etoposide,1
+2,Corticotropin + Vigabatrin,1
+4,Celecoxib + Pantoprazole sodium + Pregabalin + Vancomycin hydrochloride,1
+4,Albuterol + Atorvastatin calcium + Empagliflozin + Escitalopram oxalate,1
+4,Amlodipine besylate + Lacosamide + Perampanel + Valproic acid,1
+3,Ibrutinib + Levothyroxine sodium + Nitrofurantoin,1
+3,Acetaminophen + Dexamethasone + Lubiprostone,1
+2,Doxorubicin hydrochloride + Olaparib,1
+2,Acalabrutinib + Cyanocobalamin,1
+2,Doxorubicin hydrochloride + Fexofenadine hydrochloride,1
+2,Mesalamine + Terbinafine hydrochloride,1
+4,Azathioprine + Hydroxychloroquine sulfate + Prednisone + Voclosporin,1
+4,Calcium acetate + Etanercept + Pantoprazole sodium + Prednisone,1
+2,Lamotrigine + Valproic acid,1
+2,Methotrexate sodium + Sodium bicarbonate,1
+3,Amlodipine besylate + Atorvastatin calcium + Clopidogrel bisulfate,1
+2,Losartan potassium + Sotalol hydrochloride,1
+4,Dexamethasone + Meropenem + Remdesivir + Voriconazole,1
+2,Abemaciclib + Tamoxifen citrate,1
+2,Adalimumab + Corticotropin,1
+2,Docetaxel + Fluorouracil,1
+4,Clindamycin phosphate + Meropenem + Oxacillin sodium + Vancomycin hydrochloride,1
+2,Tepotinib hydrochloride + Trazodone hydrochloride,1
+3,Carvedilol + Losartan potassium + Prasugrel hydrochloride,1
+4,Everolimus + Prednisolone + Sirolimus + Tacrolimus,1
+3,Atorvastatin calcium + Venetoclax + Voriconazole,1
+3,Furosemide + Palivizumab + Spironolactone,1
+2,Methotrexate sodium + Procarbazine hydrochloride,1
+4,Fluconazole + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+2,Furosemide + Prednisone,1
+3,Acetaminophen + Diphenhydramine hydrochloride + Epinephrine,1
+2,Fludarabine phosphate + Thiotepa,1
+3,Diphenhydramine hydrochloride + Midodrine hydrochloride + Semaglutide,1
+3,Methylprednisolone + Sirolimus + Vincristine sulfate,1
+2,Cilostazol + Lenvatinib mesylate,1
+3,Escitalopram oxalate + Olanzapine + Risperidone,1
+3,Albuterol + Ibuprofen + Phytonadione,1
+3,Busulfan + Cyclophosphamide + Thiotepa,1
+3,Macitentan + Riociguat + Torsemide,1
+2,Pantoprazole sodium + Ustekinumab,1
+2,Lamotrigine + Olanzapine,1
+2,Diltiazem hydrochloride + Dofetilide,1
+2,Amiodarone hydrochloride + Apixaban,1
+2,Ibuprofen + Valproic acid,1
+3,Cyclophosphamide + Docetaxel + Vancomycin hydrochloride,1
+4,Calcium acetate + Levamlodipine maleate + Metoprolol succinate + Teriparatide acetate,1
+3,Carboplatin + Cyanocobalamin + Pemetrexed disodium,1
+4,Dipyridamole + Fenofibrate + Folic acid + Valsartan,1
+2,Pregabalin + Tapentadol hydrochloride,1
+3,Bevacizumab + Candesartan cilexetil + Miglitol,1
+3,Amlodipine besylate + Osilodrostat phosphate + Trazodone hydrochloride,1
+3,Clonazepam + Metoprolol succinate + Naltrexone hydrochloride,1
+2,Desvenlafaxine succinate + Palbociclib,1
+2,Cetuximab + Encorafenib,1
+2,Amikacin sulfate + Vancomycin hydrochloride,1
+4,Acyclovir + Ceftriaxone sodium + Dexamethasone + Vancomycin hydrochloride,1
+3,Bevacizumab + Paclitaxel + Trastuzumab,1
+3,Docetaxel + Pegfilgrastim + Risperidone,1
+2,Amlodipine besylate + Axitinib,1
+4,Colistimethate sodium + Meropenem + Methylprednisolone + Tigecycline,1
+4,Colistimethate sodium + Ertapenem sodium + Meropenem + Tigecycline,1
+3,Adalimumab + Methotrexate sodium + Tacrolimus,1
+4,Azathioprine + Prednisolone + Sirolimus + Tacrolimus,1
+3,Cyclophosphamide + Mycophenolate mofetil + Tacrolimus,1
+3,Folic acid + Prednisone + Upadacitinib,1
+2,Ketorolac tromethamine + Metformin hydrochloride,1
+2,Duloxetine hydrochloride + Pregabalin,1
+4,Cyclosporine + Lorazepam + Ondansetron hydrochloride + Sumatriptan succinate,1
+3,Carboplatin + Osimertinib mesylate + Paclitaxel,1
+2,Carboplatin + Fluorouracil,1
+3,Allopurinol + Bisoprolol fumarate + Sodium bicarbonate,1
+2,Ibuprofen + Pantoprazole sodium,1
+3,Lisinopril + Sertraline hydrochloride + Trazodone hydrochloride,1
+2,Leflunomide + Voclosporin,1
+4,Lovastatin + Metformin hydrochloride + Mitomycin + Semaglutide,1
+4,Ethambutol hydrochloride + Isoniazid + Rifapentine + Tiopronin,1
+3,Gabapentin + Methotrexate sodium + Upadacitinib,1
+2,Isoproterenol hydrochloride + Lisinopril,1
+3,Amlodipine besylate + Atorvastatin calcium + Lansoprazole,1
+4,Atorvastatin calcium + Fenofibrate + Lisinopril + Naproxen,1
+3,Abiraterone acetate + Prednisolone + Tamsulosin hydrochloride,1
+4,Cefuroxime sodium + Enalapril maleate + Hydrochlorothiazide + Vancomycin hydrochloride,1
+3,Furosemide + Morphine sulfate + Selexipag,1
+3,Dapsone + Primaquine phosphate + Valganciclovir hydrochloride,1
+3,Mycophenolate mofetil + Propranolol hydrochloride + Tacrolimus,1
+3,Apixaban + Certolizumab pegol + Pantoprazole sodium,1
+2,Doxazosin mesylate + Empagliflozin,1
+3,Dacarbazine + Doxorubicin hydrochloride + Vincristine sulfate,1
+2,Diphenhydramine hydrochloride + Vancomycin hydrochloride,1
+4,Amlodipine besylate + Carvedilol + Hydrochlorothiazide + Sodium zirconium cyclosilicate,1
+3,Aspirin + Omeprazole + Silodosin,1
+3,Acyclovir + Mannitol + Oseltamivir phosphate,1
+2,Omeprazole + Oseltamivir phosphate,1
+3,Hydromorphone hydrochloride + Morphine sulfate + Ribociclib succinate,1
+2,Bortezomib + Mycophenolate mofetil,1
+2,Cyclosporine + Ruxolitinib phosphate,1
+4,Gabapentin + Hydroxychloroquine sulfate + Pregabalin + Voclosporin,1
+3,Methotrexate sodium + Prednisone + Vincristine sulfate,1
+2,Levetiracetam + Pantoprazole sodium,1
+2,Bupropion hydrochloride + Metformin hydrochloride,1
+3,Enalapril maleate + Hydrochlorothiazide + Vancomycin hydrochloride,1
+3,Glimepiride + Metformin hydrochloride + Semaglutide,1
+4,Bisoprolol fumarate + Propafenone hydrochloride + Rivaroxaban + Rosuvastatin calcium,1
+2,Duloxetine hydrochloride + Sodium oxybate,1
+4,Hydralazine hydrochloride + Metoprolol succinate + Nifedipine + Riociguat,1
+3,Atorvastatin calcium + Losartan potassium + Tolvaptan,1
+4,Cyclophosphamide + Mycophenolate mofetil + Prednisone + Voclosporin,1
+4,Atorvastatin calcium + Dapagliflozin + Digoxin + Metformin hydrochloride,1
+2,Losartan potassium + Tolvaptan,1
+3,Amlodipine besylate + Hydrochlorothiazide + Metoprolol succinate,1
+2,Infliximab + Sodium bicarbonate,1
+2,Brexpiprazole + Memantine hydrochloride,1
+2,Dimenhydrinate + Fedratinib hydrochloride,1
+4,Alpelisib + Fulvestrant + Lisinopril + Semaglutide,1
+4,Asciminib hydrochloride + Mycophenolate mofetil + Prednisolone + Tacrolimus,1
+3,Prednisone + Sirolimus + Tacrolimus,1
+3,Epoprostenol sodium + Selexipag + Sildenafil citrate,1
+2,Bevacizumab + Oxaliplatin,1
+4,Folic acid + Infliximab + Lansoprazole + Mesalamine,1
+2,Azathioprine + Dexamethasone,1
+4,Acetaminophen + Desloratadine + Dexamethasone + Pantoprazole sodium,1
+2,Famotidine + Vigabatrin,1
+4,Cyclophosphamide + Doxorubicin hydrochloride + Prednisolone + Vincristine sulfate,1
+2,Hydroxychloroquine sulfate + Methotrexate sodium,1
+4,Minoxidil + Oxcarbazepine + Tizanidine hydrochloride + Trazodone hydrochloride,1
+2,Cisplatin + Cytarabine,1
+2,Doxycycline + Prednisolone,1
+2,Lidocaine + Propofol,1
+4,Metformin hydrochloride + Nebivolol hydrochloride + Olmesartan medoxomil + Omeprazole,1
+3,Anastrozole + Cefepime hydrochloride + Celecoxib,1
+3,Golimumab + Infliximab + Ustekinumab,1
+3,Benazepril hydrochloride + Simvastatin + Terazosin hydrochloride,1
+3,Cetirizine hydrochloride + Enalapril maleate + Pegcetacoplan,1
+2,Clonazepam + Sertraline hydrochloride,1
+3,Amlodipine besylate + Ezetimibe + Pitavastatin calcium,1
+3,Dapagliflozin + Finerenone + Metformin hydrochloride,1
+4,Bortezomib + Heparin sodium + Ibrutinib + Rivaroxaban,1
+4,Bortezomib + Cyclophosphamide + Dexamethasone + Valsartan,1
+2,Acalabrutinib + Ivermectin,1
+4,Amlodipine besylate + Febuxostat + Irbesartan + Metformin hydrochloride,1
+4,Pravastatin sodium + Prednisone + Torsemide + Voclosporin,1
+3,Allopurinol + Mycophenolate mofetil + Voclosporin,1
+4,Inclisiran sodium + Losartan potassium + Metoprolol succinate + Rosuvastatin calcium,1
+3,Darolutamide + Degarelix acetate + Docetaxel,1
+3,Aspirin + Duloxetine hydrochloride + Morphine sulfate,1
+2,Amlodipine besylate + Eplerenone,1
+2,Ibuprofen + Meloxicam,1
+4,Cetuximab + Fluorouracil + Leucovorin calcium + Oxaliplatin,1
+2,Mycophenolate mofetil + Pregabalin,1
+3,Adalimumab + Ertapenem sodium + Ustekinumab,1
+2,Darolutamide + Talazoparib tosylate,1
+3,Acetaminophen + Rosuvastatin calcium + Valsartan,1
+4,Acetaminophen + Amlodipine besylate + Losartan potassium + Semaglutide,1
+3,Celecoxib + Hydrochlorothiazide + Olmesartan medoxomil,1
+2,Corticotropin + Methotrexate sodium,1
+2,Hydroxyzine hydrochloride + Vortioxetine hydrobromide,1
+3,Apixaban + Aspirin + Meloxicam,1
+3,Cyclophosphamide + Cyclosporine + Prednisolone,1
+4,Benazepril hydrochloride + Cyclophosphamide + Eculizumab + Methylprednisolone,1
+2,Acalabrutinib + Folic acid,1
+3,Levothyroxine sodium + Linagliptin + Telmisartan,1
+4,Aspirin + Atorvastatin calcium + Hydrochlorothiazide + Losartan potassium,1
+2,Colchicine + Semaglutide,1
+2,Certolizumab pegol + Metformin hydrochloride,1
+4,Aspirin + Atorvastatin calcium + Metoprolol succinate + Ticagrelor,1
+4,Apremilast + Gabapentin + Omeprazole + Ramipril,1
+2,Omalizumab + Prednisone,1
+3,Prednisone + Tacrolimus + Valganciclovir hydrochloride,1
+4,Aspirin + Metformin hydrochloride + Rosuvastatin calcium + Sitagliptin phosphate,1
+2,Azithromycin + Olanzapine,1
+3,Furosemide + Sodium zirconium cyclosilicate + Spironolactone,1
+2,Ciprofloxacin hydrochloride + Olaparib,1
+3,Dabrafenib mesylate + Empagliflozin + Levothyroxine sodium,1
+2,Edoxaban tosylate + Enoxaparin sodium,1
+2,Crizotinib + Entrectinib,1
+2,Albuterol + Lorazepam,1
+2,Belzutifan + Mirtazapine,1
+4,Folic acid + Methotrexate sodium + Prednisone + Upadacitinib,1
+3,Clonazepam + Memantine hydrochloride + Zolpidem tartrate,1
+3,Aspirin + Simvastatin + Venlafaxine hydrochloride,1
+3,Gabapentin + Loratadine + Olaparib,1
+4,Dapagliflozin + Liraglutide + Metformin hydrochloride + Semaglutide,1
+2,Ibuprofen + Prednisone,1
+4,Dapagliflozin + Furosemide + Losartan potassium + Valsartan,1
+4,Cyclophosphamide + Hydroxychloroquine sulfate + Mycophenolate mofetil + Prednisolone,1
+2,Amphotericin B + Micafungin sodium,1
+4,Anakinra + Dexamethasone + Methylprednisolone + Ruxolitinib phosphate,1
+4,Cyclosporine + Diphenhydramine hydrochloride + Omalizumab + Prednisone,1
+4,Alemtuzumab + Basiliximab + Prednisone + Tacrolimus,1
+2,Amoxicillin + Upadacitinib,1
+2,Tacrolimus + Voriconazole,1
+3,Bumetanide + Empagliflozin + Losartan potassium,1
+3,Bumetanide + Eculizumab + Hydralazine hydrochloride,1
+4,Bumetanide + Carvedilol + Doxazosin mesylate + Hydralazine hydrochloride,1
+2,Glipizide + Metformin hydrochloride,1
+4,Acyclovir + Amoxicillin + Mycophenolate mofetil + Prednisone,1
+3,Cyclosporine + Prednisolone + Sodium bicarbonate,1
+3,Azithromycin + Linezolid + Tigecycline,1
+2,Elagolix sodium + Leuprolide acetate,1
+2,Lenvatinib mesylate + Nilotinib hydrochloride,1
+4,Carboplatin + Enoxaparin sodium + Paclitaxel + Pantoprazole sodium,1
+2,Mycophenolate mofetil + Paclitaxel,1
+2,Panitumumab + Sotorasib,1
+2,Cyclophosphamide + Methylprednisolone,1
+4,Duloxetine hydrochloride + Levothyroxine sodium + Oxycodone hydrochloride + Pantoprazole sodium,1
+4,Mycophenolate mofetil + Prednisolone + Tacrolimus + Telmisartan,1
+4,Clonazepam + Lidocaine + Metoclopramide hydrochloride + Pregabalin,1
+2,Bisoprolol fumarate + Olmesartan medoxomil,1
+4,Azilsartan kamedoxomil + Fluorouracil + Irinotecan hydrochloride + Levoleucovorin,1
+3,Atorvastatin calcium + Losartan potassium + Olanzapine,1
+3,Furosemide + Norepinephrine bitartrate + Vancomycin hydrochloride,1
+4,Ceftriaxone sodium + Ciprofloxacin hydrochloride + Metronidazole + Vancomycin hydrochloride,1
+4,Cyclophosphamide + Enalapril maleate + Methylprednisolone + Prednisone,1
+3,Carvedilol + Ruxolitinib phosphate + Tacrolimus,1
+4,Apixaban + Lansoprazole + Lemborexant + Rosuvastatin calcium,1
+3,Doxorubicin hydrochloride + Gemcitabine hydrochloride + Vinorelbine tartrate,1
+2,Ciprofloxacin hydrochloride + Metoprolol succinate,1
+4,Apixaban + Famotidine + Primidone + Rosuvastatin calcium,1
+3,Furosemide + Lanreotide acetate + Metolazone,1
+2,Enalapril maleate + Rosuvastatin calcium,1
+2,Bevacizumab + Epirubicin hydrochloride,1
+3,Candesartan cilexetil + Hydrochlorothiazide + Metformin hydrochloride,1
+2,Celecoxib + Tofacitinib citrate,1
+2,Amikacin sulfate + Meropenem,1
+2,Ruxolitinib phosphate + Tadalafil,1
+4,Amlodipine besylate + Lacosamide + Levetiracetam + Ruxolitinib phosphate,1
+2,Folic acid + Ursodiol,1
+3,Binimetinib + Encorafenib + Prednisone,1
+4,Acetaminophen + Cefoperazone sodium + Cefuroxime sodium + Pantoprazole sodium,1
+4,Amlodipine besylate + Baclofen + Levetiracetam + Metoprolol succinate,1
+2,Methadone hydrochloride + Methotrexate sodium,1
+4,Cinacalcet hydrochloride + Levetiracetam + Prednisone + Tacrolimus,1
+4,Hydralazine hydrochloride + Hydrochlorothiazide + Losartan potassium + Methylprednisolone,1
+2,Acetaminophen + Azithromycin,1
+2,Tadalafil + Vibegron,1
+2,Amlodipine besylate + Montelukast sodium,1
+2,Cefazolin sodium + Linezolid,1
+4,Ampicillin sodium + Doxycycline + Hydroxychloroquine sulfate + Oxacillin sodium,1
+3,Lisinopril + Prednisone + Voclosporin,1
+3,Amlodipine besylate + Atenolol + Nifedipine,1
+2,Cyclosporine + Dapsone,1
+4,Fexofenadine hydrochloride + Letrozole + Lorazepam + Quetiapine fumarate,1
+4,Carboplatin + Fulvestrant + Paclitaxel + Ribociclib succinate,1
+2,Phytonadione + Tranexamic acid,1
+4,Hydrocortisone acetate + Leucovorin calcium + Linezolid + Megestrol acetate,1
+2,Hydrochlorothiazide + Spironolactone,1
+2,Dapagliflozin + Empagliflozin,1
+4,Abemaciclib + Anastrozole + Goserelin acetate + Zoledronic acid,1
+2,Avacopan + Methylprednisolone,1
+2,Ruxolitinib phosphate + Upadacitinib,1
+4,Diroximel fumarate + Glatiramer acetate + Letrozole + Lisinopril,1
+4,Methylprednisolone + Mycophenolate mofetil + Ranitidine hydrochloride + Tacrolimus,1
+2,Topiramate + Venlafaxine hydrochloride,1
+3,Acalabrutinib + Acetaminophen + Venetoclax,1
+4,Allopurinol + Capecitabine + Cisplatin + Trastuzumab,1
+2,Enalapril maleate + Esomeprazole sodium,1
+3,Metformin hydrochloride + Semaglutide + Valsartan,1
+4,Cyclosporine + Dexamethasone + Etoposide + Methylprednisolone,1
+4,Captopril + Esomeprazole sodium + Hydrochlorothiazide + Ibuprofen,1
+4,Colistimethate sodium + Fluconazole + Vancomycin hydrochloride + Warfarin sodium,1
+4,Aspirin + Cortisone acetate + Deflazacort + Ezetimibe,1
+3,Clonazepam + Estazolam + Risperidone,1
+3,Losartan potassium + Metformin hydrochloride + Tenofovir disoproxil fumarate,1
+2,Atorvastatin calcium + Sertraline hydrochloride,1
+4,Folic acid + Leflunomide + Methotrexate sodium + Voclosporin,1
+2,Aprepitant + Methotrexate sodium,1
+2,Budesonide + Lisinopril,1
+3,Atorvastatin calcium + Empagliflozin + Losartan potassium,1
+2,Entecavir + Lenvatinib mesylate,1
+4,Aspirin + Clopidogrel bisulfate + Rosuvastatin calcium + Ticagrelor,1
+3,Prednisolone + Tacrolimus + Warfarin sodium,1
+2,Deferasirox + Deferiprone,1
+2,Carboplatin + Docetaxel,1
+4,Azacitidine + Dexamethasone + Tretinoin + Venetoclax,1
+3,Brivaracetam + Cenobamate + Lamotrigine,1
+3,Amlodipine besylate + Celecoxib + Trazodone hydrochloride,1
+3,Ibuprofen + Meropenem + Vancomycin hydrochloride,1
+3,Finerenone + Sodium zirconium cyclosilicate + Spironolactone,1
+3,Acalabrutinib + Apixaban + Bendamustine hydrochloride,1
+2,Lorazepam + Quetiapine fumarate,1
+2,Ciprofloxacin hydrochloride + Minocycline hydrochloride,1
+3,Ciprofloxacin hydrochloride + Corticotropin + Levofloxacin,1
+4,Bortezomib + Cyclophosphamide + Dexamethasone + Lenalidomide,1
+2,Imatinib mesylate + Tacrolimus,1
+4,Adalimumab + Amlodipine besylate + Atorvastatin calcium + Omeprazole,1
+3,Emtricitabine + Meropenem + Vancomycin hydrochloride,1
+3,Cinacalcet hydrochloride + Levetiracetam + Tacrolimus,1
+3,Cidofovir + Foscarnet sodium + Maribavir,1
+2,Enzalutamide + Leuprolide acetate,1
+2,Darbepoetin alfa + Teriparatide acetate,1
+4,Fluorouracil + Leucovorin calcium + Oxaliplatin + Panitumumab,1
+2,Aripiprazole + Ofatumumab,1
+2,Relugolix + Trazodone hydrochloride,1
+2,Adalimumab + Heparin sodium,1
+3,Fondaparinux sodium + Metoprolol succinate + Rosuvastatin calcium,1
+2,Edaravone + Riluzole,1
+4,Amlodipine besylate + Ciprofloxacin hydrochloride + Hydroxychloroquine sulfate + Warfarin sodium,1
+2,Abaloparatide + Calcium acetate,1
+2,Allopurinol + Voriconazole,1
+2,Tacrolimus + Valsartan,1
+4,Carboplatin + Etodolac + Hydromorphone hydrochloride + Paclitaxel,1
+3,Acyclovir + Amlodipine besylate + Metoclopramide hydrochloride,1
+3,Cyclosporine + Darbepoetin alfa + Tacrolimus,1
+3,Enalapril maleate + Furosemide + Metoprolol succinate,1
+3,Ciprofloxacin hydrochloride + Cytarabine + Venetoclax,1
+2,Mirabegron + Tamsulosin hydrochloride,1
+3,Methotrexate sodium + Ruxolitinib phosphate + Tacrolimus,1
+4,Acyclovir + Fluconazole + Ruxolitinib phosphate + Tacrolimus,1
+3,Carboplatin + Paclitaxel + Trastuzumab,1
+4,Apixaban + Bisoprolol fumarate + Colchicine + Pantoprazole sodium,1
+2,Clindamycin phosphate + Rivaroxaban,1
+3,Calcitriol + Calcium acetate + Hydrocortisone acetate,1
+3,Amlodipine besylate + Ibuprofen + Naproxen,1
+3,Furosemide + Sodium zirconium cyclosilicate + Tamsulosin hydrochloride,1
+3,Atenolol + Itraconazole + Mycophenolate mofetil,1
+3,Metronidazole + Pantoprazole sodium + Ustekinumab,1
+2,Abiraterone acetate + Rosuvastatin calcium,1
+2,Dapagliflozin + Ibuprofen,1
+2,Diphenhydramine hydrochloride + Palbociclib,1
+2,Hydroxyurea + Ruxolitinib phosphate,1
+2,Dapagliflozin + Indapamide,1
+4,Amlodipine besylate + Azathioprine + Mesalamine + Ramipril,1
+2,Lansoprazole + Omeprazole,1
+3,Gabapentin + Omalizumab + Pregabalin,1
+2,Amlodipine besylate + Venetoclax,1
+3,Gabapentin + Tamsulosin hydrochloride + Temazepam,1
+2,Clozapine + Quetiapine fumarate,1
+4,Ciprofloxacin hydrochloride + Methylprednisolone + Metronidazole + Voriconazole,1
+3,Calcium acetate + Hydroxychloroquine sulfate + Methylprednisolone,1
+2,Furosemide + Levetiracetam,1
+3,Carboplatin + Doxorubicin hydrochloride + Paclitaxel,1
+2,Corticotropin + Mycophenolate mofetil,1
+4,Enalapril maleate + Lisinopril + Losartan potassium + Metoprolol succinate,1
+3,Abemaciclib + Letrozole + Loperamide hydrochloride,1
+2,Abemaciclib + Exemestane,1
+4,Alendronate sodium + Hydrochlorothiazide + Losartan potassium + Pravastatin sodium,1
+4,Cyclobenzaprine hydrochloride + Etanercept + Gabapentin + Tofacitinib citrate,1
+3,Carboplatin + Lenvatinib mesylate + Paclitaxel,1
+2,Bevacizumab + Pemetrexed disodium,1
+4,Cyclobenzaprine hydrochloride + Ibrutinib + Levothyroxine sodium + Lovastatin,1
+3,Infliximab + Mesalamine + Prednisolone,1
+2,Dapagliflozin + Valsartan,1
+2,Cinacalcet hydrochloride + Zoledronic acid,1
+4,Atorvastatin calcium + Enzalutamide + Gabapentin + Relugolix,1
+2,Ritonavir + Tacrolimus,1
+2,Levetiracetam + Methotrexate sodium,1
+3,Cyclophosphamide + Cyclosporine + Mycophenolate mofetil,1
+2,Prasugrel hydrochloride + Rivaroxaban,1
+3,Carboplatin + Isoniazid + Paclitaxel,1
+2,Aripiprazole + Brexpiprazole,1
+4,Bupropion hydrochloride + Cyanocobalamin + Levothyroxine sodium + Rosuvastatin calcium,1
+2,Apixaban + Empagliflozin,1
+3,Alendronate sodium + Ibandronate sodium + Risedronate sodium,1
+2,Alendronate sodium + Ibandronate sodium,1

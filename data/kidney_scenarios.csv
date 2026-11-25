@@ -1,0 +1,7 @@
+scenario,Lmax,peak_h,AUC,hours_above_0.75
+"TW1 triple whammy, all together",1.0648,1.7,11.2037,4.3
+"TW2 triple whammy, NSAID delayed 6 h",0.9763,7.4,11.1992,3.25
+"TW3 triple whammy, severe renal impairment (eGFR 15-29)",1.0709,1.7,13.7089,5.25
+TNF+NSAID tenofovir + ibuprofen,1.4902,1.35,18.2299,9.4
+NSAID alone ibuprofen 400,0.5,1.5,2.3682,0.0
+CONTROL TW1 + vitamin B12 (H=0 by design),1.0648,1.7,11.2037,4.3
