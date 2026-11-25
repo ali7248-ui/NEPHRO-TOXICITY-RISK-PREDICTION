@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Multi-Drug Combination Nephrotoxicity Risk Prediction"
+authors:
+  - family-names: "Ali"
+    given-names: "Sabir"
+version: "0.1"
+date-released: "2026-11-25"
+license: MIT
+abstract: "A temporal load framework for predicting multi-drug combination nephrotoxicity risk, combining FAERS 2026Q3 kidney reporting signals, curated nephrotoxin labels, drug pharmacokinetics and a 24-hour concentration-time load model with renal-function (eGFR) scenarios."
+keywords:
+  - nephrotoxicity
+  - drug combinations
+  - FAERS
+  - pharmacokinetics
+  - risk prediction
