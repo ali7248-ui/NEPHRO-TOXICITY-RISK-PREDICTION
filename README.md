@@ -1,15 +1,15 @@
 # Multi-Drug Combination Nephrotoxicity Risk Prediction
 
 **Project lead:** Sabir Ali
-**Status:** v0.1 research prototype. Working labels, not clinically verified. Not a medical tool and not medical advice.
+**Status:** research prototype. Working labels, not clinically verified. Not a medical tool and not medical advice.
 
 ## What it does
 
 Single drugs are routinely checked for kidney risk; combinations rarely are. This project estimates the **combined nephrotoxic load** of a regimen of 2-5 drugs over 24 hours, so that overlaps which are invisible drug-by-drug become visible:
 
-- Each drug contributes `Load(t) = hazard weight x dose fraction x C(t)`, where `C(t)` is a peak-normalised one-compartment Bateman concentration curve built from the drug's Tmax and half-life, the dose fraction is the dose given divided by the labelled maximum single dose, and the hazard weight comes from the v0.1 kidney labels.
+- Each drug contributes `Load(t) = hazard weight x dose fraction x C(t)`, where `C(t)` is a peak-normalised one-compartment Bateman concentration curve built from the drug's Tmax and half-life, the dose fraction is the dose given divided by the labelled maximum single dose, and the hazard weight comes from the kidney labels.
 - Loads are summed on a 0-24 h grid (0.05 h steps) and compared with a working threshold of **0.75**.
-- The Streamlit app is verdict-first: a plain-language risk card, the peak load, peak time, total exposure (AUC) and hours above threshold, plus a 24-hour load chart. Doses can be staggered to see the effect of delaying a drug, and an eGFR band selector applies the v0.1 renal impairment half-life multipliers (in the eGFR 15-29 band: half-life x2.0 for lisinopril and hydrochlorothiazide, x1.25 for ibuprofen; illustrative factors, documented as such).
+- The Streamlit app is verdict-first: a plain-language risk card, the peak load, peak time, total exposure (AUC) and hours above threshold, plus a 24-hour load chart. Doses can be staggered to see the effect of delaying a drug, and an eGFR band selector applies the renal impairment half-life multipliers (in the eGFR 15-29 band: half-life x2.0 for lisinopril and hydrochlorothiazide, x1.25 for ibuprofen; illustrative factors, documented as such).
 
 The best-known combination injury in clinical pharmacology is renal: the "triple whammy" of an NSAID, an ACE inhibitor or ARB, and a diuretic. It is the headline test case below.
 
@@ -17,16 +17,16 @@ The best-known combination injury in clinical pharmacology is renal: the "triple
 
 | File | Contents | Source |
 |---|---|---|
-| `data/K01_Kidney_Labels_v0.1.csv` | Per-drug kidney tier and hazard weight: curated seed of 46 established nephrotoxins with mechanisms, plus FAERS signal tiers (Possible 341, Weak 524, No signal 425) | Curated pharmacology seed + FAERS 2026Q3 |
+| `data/K01_Kidney_Labels_.csv` | Per-drug kidney tier and hazard weight: curated seed of 46 established nephrotoxins with mechanisms, plus FAERS signal tiers (Possible 341, Weak 524, No signal 425) | Curated pharmacology seed + FAERS 2026Q3 |
 | `data/K10_Drug_PK_Data.json` | Per-drug Tmax, half-life, labelled maximum single and daily dose, formulation, structural alert note (785 drugs; cleaned extract with the fields the app uses) | Drug labels |
 | `data/K02_FAERS_2026Q3_Kidney_Combinations.csv` | 3,753 FAERS reports containing 2-4 mapped drugs | FDA FAERS 2026Q3 (421,404 reports; 14,542 with a kidney term) |
 | `data/K05_Structure_Table_PubChem.csv` | Structures (SMILES) for 1,230 drugs, used by the baseline model | PubChem |
-| `data/kidney_metrics.json`, `data/kidney_scenarios.csv` | v0.1 computed results (below) | This project |
+| `data/kidney_metrics.json`, `data/kidney_scenarios.csv` | computed results (below) | This project |
 | `data/K09_README_Fixed_Database.md` | Fixed-database notes | This project |
 
 Not shipped in this repo, to keep it light and app-focused: the row-level FAERS file (about 2.1 MB), the raw source-universe and metabolite tables, and the raw structural-alert match table. The app does not use them; the alert and structure information behind the published baseline is summarised in `kidney_metrics.json`, and the PK fields the app needs are in the cleaned K10 extract.
 
-## v0.1 results
+## results
 
 Temporal scenarios (threshold 0.75):
 
@@ -52,14 +52,14 @@ These are weak numbers and are reported as such: nephrotoxicity is mechanism-div
 
 ## Honest limitations
 
-1. Labels v0.1 are a curated seed plus reporting signals, not verified clinical labels; FAERS counts reflect reporting, not incidence, and are confounded by indication and notoriety.
-2. The kidney term set used to build the labels is keyword-based and includes some non-injury terms; counts will change when the curated term list of v0.2 replaces it.
+1. Labels are a curated seed plus reporting signals, not verified clinical labels; FAERS counts reflect reporting, not incidence, and are confounded by indication and notoriety.
+2. The kidney term set used to build the labels is keyword-based and includes some non-injury terms; counts will change when the curated term list of replaces it.
 3. The eGFR half-life multipliers are illustrative global factors, not per-drug renal clearance data.
 4. The structural alert layer is generic and is not kidney-specific.
 5. Parenteral-only nephrotoxins (aminoglycosides, vancomycin) are in the label set, but the scenario engine is calibrated on oral dosing.
 6. No verified, ranked nephrotoxicity dataset exists; building one is the central difficulty of this project.
 
-Next steps (v0.2): curated kidney term list and labels; per-drug renal clearance fractions from labels; kidney-specific mechanism classes as model features.
+Next steps (): curated kidney term list and labels; per-drug renal clearance fractions from labels; kidney-specific mechanism classes as model features.
 
 ## Run it
 
@@ -80,7 +80,7 @@ Dependencies are deliberately light: `streamlit`, `pandas`, `numpy`. The app its
 streamlit_app.py            the app (verdict-first)
 requirements.txt
 data/
-  K01_Kidney_Labels_v0.1.csv
+  K01_Kidney_Labels_.csv
   K02_FAERS_2026Q3_Kidney_Combinations.csv
   K05_Structure_Table_PubChem.csv
   K09_README_Fixed_Database.md
