@@ -1,4 +1,4 @@
-"""Multi-Drug Combination Nephrotoxicity Risk Prediction (v0.1)
+"""Multi-Drug Combination Nephrotoxicity Risk Prediction
 
 Project lead: Sabir Ali
 
@@ -8,7 +8,7 @@ peak-normalised one-compartment Bateman concentration curves:
 
     Load_i(t) = H_i x F_i x C_i(t)
 
-    H_i  kidney hazard weight from the v0.1 working labels (data/K01)
+    H_i  kidney hazard weight from the working labels (data/K01)
     F_i  dose fraction = dose given / labelled maximum single dose (data/K10)
     C_i  Bateman curve from the drug's Tmax and half-life (data/K10)
 
@@ -29,21 +29,21 @@ DATA_DIR = Path(__file__).parent / "data"
 THRESHOLD = 0.75
 TIMES = np.round(np.arange(0, 24.0001, 0.05), 10)
 
-# v0.1 renal impairment multipliers, exactly as documented for the
+# Renal impairment multipliers, exactly as documented for the
 # eGFR 15-29 band: half-life x2.0 for lisinopril and hydrochlorothiazide,
-# x1.25 for ibuprofen. No multipliers are defined in v0.1 for other bands
+# x1.25 for ibuprofen. No multipliers are defined for other bands
 # or other drugs, so none are applied there.
 EGFR_BANDS = {
-    "eGFR 60 or above (no v0.1 adjustment)": {},
-    "eGFR 30-59 (no v0.1 adjustment defined yet)": {},
-    "eGFR 15-29 (v0.1 severe impairment multipliers)": {
+    "eGFR 60 or above (no adjustment)": {},
+    "eGFR 30-59 (no adjustment defined yet)": {},
+    "eGFR 15-29 (severe impairment multipliers)": {
         "lisinopril": 2.0,
         "hydrochlorothiazide": 2.0,
         "ibuprofen": 1.25,
     },
 }
 
-# Default regimen: the documented v0.1 headline scenario
+# Default regimen: the documented headline scenario
 # (ibuprofen 400 mg + lisinopril 10 mg + hydrochlorothiazide 25 mg).
 PRESET = [
     ("ibuprofen", 400.0),
@@ -61,7 +61,7 @@ def load_pk_data():
 @st.cache_data
 def load_labels():
     labels = {}
-    df = pd.read_csv(DATA_DIR / "K01_Kidney_Labels_v0.1.csv")
+    df = pd.read_csv(DATA_DIR / "K01_Kidney_Labels.csv")
     for _, row in df.iterrows():
         labels[str(row["CompoundName"]).lower()] = {
             "tier": row["KidneyTier"],
@@ -86,7 +86,7 @@ def hazard_for(key, display, labels):
 
 def bateman_curve(tmax, half_life, times):
     """Peak-normalised one-compartment Bateman curve (same method as the
-    v0.1 backend: solve ka by bisection so the peak lands on Tmax)."""
+    Backend: solve ka by bisection so the peak lands on Tmax)."""
     ke = math.log(2) / half_life
     lo, hi = ke * 1.0001, 50.0
     for _ in range(80):
@@ -128,10 +128,10 @@ def summarise(total):
 
 
 def main():
-    st.set_page_config(page_title="Nephrotoxicity Combination Risk (v0.1)", layout="wide")
+    st.set_page_config(page_title="Nephrotoxicity Combination Risk", layout="wide")
     st.title("Multi-Drug Combination Nephrotoxicity Risk Prediction")
     st.caption(
-        "Research prototype v0.1, project lead: Sabir Ali. Working labels, not "
+        "Research prototype, project lead: Sabir Ali. Working labels, not "
         "clinically verified. Not a medical tool and not medical advice."
     )
 
@@ -223,6 +223,33 @@ def main():
             "and timings the combined kidney load stays low over 24 hours."
         )
 
+    # ---------- How to read this result (plain language) ----------
+    st.subheader("How to read this result")
+    if hours_above > 0:
+        window_text = (
+            f"In this run the combined load stays at or above 0.75 for about "
+            f"{hours_above:.2f} hours, and that stretch of time is the danger "
+            "window the chart below shows."
+        )
+    else:
+        window_text = (
+            "In this run the combined load never reaches 0.75, so there is no "
+            "danger window: the medicines overlap only weakly at these doses "
+            "and timings."
+        )
+    st.markdown(
+        f"**Peak load** is the highest point of the combined kidney load in "
+        f"24 hours; here it is {peak:.2f}, reached at {peak_t:.2f} hours after "
+        "the doses are taken. The line at **0.75** is this project's working "
+        "danger line: it is a modelling choice, not a medical limit, and a "
+        "peak above it means the medicines overlap strongly enough, for long "
+        "enough, that the combination is flagged for attention. "
+        + window_text
+        + " The total exposure (AUC) adds up the whole 24-hour load, so a "
+        "regimen can look acceptable on peak alone yet still carry a high "
+        "total if the load stays up for many hours."
+    )
+
     m1, m2, m3, m4 = st.columns(4)
     m1.metric("Peak load", f"{peak:.4f}")
     m2.metric("Peak at", f"{peak_t:.2f} h")
@@ -253,24 +280,24 @@ def main():
         st.dataframe(detail, use_container_width=True)
 
     # ---------- Science ----------
-    with st.expander("See the science: method, v0.1 results and limitations"):
+    with st.expander("See the science: method, results and limitations"):
         metrics = load_metrics()
         st.markdown(
             "**Method.** Each drug contributes Load(t) = hazard weight x dose "
             "fraction x a peak-normalised Bateman concentration curve built from "
             "its Tmax and half-life. Loads are summed on a 0-24 h grid (0.05 h "
             "steps) against a working threshold of 0.75. Hazard weights come from "
-            "the v0.1 kidney labels: a curated seed of established nephrotoxins "
+            "the kidney labels: a curated seed of established nephrotoxins "
             "(weight 1.00) plus FAERS 2026Q3 signal tiers (Possible 0.55, Weak "
-            "0.30, No signal 0.15). In the eGFR 15-29 band, v0.1 multiplies the "
+            "0.30, No signal 0.15). In the eGFR 15-29 band, the model multiplies the "
             "half-lives of lisinopril and hydrochlorothiazide by 2.0 and of "
             "ibuprofen by 1.25; these are illustrative factors, to be replaced "
-            "by per-drug renal clearance fractions in v0.2."
+            "by per-drug renal clearance fractions in a planned update."
         )
-        st.markdown("**Documented v0.1 scenarios** (from the project results file):")
+        st.markdown("**Documented scenarios** (from the project results file):")
         scen = pd.read_csv(DATA_DIR / "kidney_scenarios.csv")
         st.dataframe(scen, use_container_width=True)
-        st.markdown("**Structure-learning baseline (v0.1, reported as-is):**")
+        st.markdown("**Structure-learning baseline (reported as-is):**")
         base_rows = []
         for name, vals in metrics.get("baselines", {}).items():
             base_rows.append({"Model": name, **vals})
@@ -285,16 +312,99 @@ def main():
             "labels are signal-based."
         )
         st.markdown(
-            "**Honest limitations.** (1) The v0.1 labels are a curated seed plus "
+            "**Honest limitations.** (1) The labels are a curated seed plus "
             "reporting signals, not verified clinical labels; FAERS counts reflect "
             "reporting, not incidence. (2) The kidney term set used to build the "
             "labels is keyword-based and includes some non-injury terms; a curated "
-            "term list is v0.2 work. (3) The eGFR half-life multipliers are "
+            "term list is planned update work. (3) The eGFR half-life multipliers are "
             "illustrative global factors, not per-drug renal clearance data. "
             "(4) The structural alert layer is generic, not kidney-specific. "
             "(5) The scenario engine is calibrated on oral dosing, while some "
             "labelled nephrotoxins are parenteral-only. Nothing here is a "
             "clinical recommendation."
+        )
+
+    # ---------- Where the numbers come from ----------
+    with st.expander("Where the numbers come from"):
+        st.markdown(
+            "Every value in this app traces back to one of the sources below. "
+            "Project modelling choices are labelled as such, so a reader can "
+            "always tell a measured or published value apart from an "
+            "assumption made by this project.\n\n"
+            "- **Drug list (the universe of medicines):** 1,336 FDA-approved "
+            "medicines, taken from a published U.S. FDA drug database. This "
+            "fixed list is the set of medicines the project can choose from.\n"
+            "- **Adverse-event counts:** the U.S. Food and Drug "
+            "Administration's FAERS public quarterly files for 2026 Q3: "
+            "421,404 reports in total, of which 14,542 carried at least one "
+            "kidney term. These counts are reports, not confirmed cases, and "
+            "reflect reporting rather than true incidence.\n"
+            "- **Kidney labels (which medicines count as kidney-harmful, and "
+            "how strongly):** two parts. First, a curated list of established "
+            "nephrotoxic medicines taken from standard pharmacology "
+            "references, each with its injury mechanism recorded. Second, "
+            "FAERS signal tiers for the remaining medicines, based on how "
+            "many kidney reports each medicine had in the quarter. These are "
+            "working labels for methods development; they are not clinically "
+            "verified.\n"
+            "- **PK values (Tmax, half-life, labelled maximum single dose):** "
+            "taken from FDA-approved drug labels (the official prescribing "
+            "information for each medicine).\n"
+            "- **Chemical structures:** from PubChem, the public chemistry "
+            "database maintained by the U.S. National Institutes of Health.\n"
+            "- **Hazard weights (Established 1.00, Possible 0.55, Weak 0.30, "
+            "No signal 0.15) and the 0.75 danger threshold:** project "
+            "modelling choices. They are not published clinical values; they "
+            "exist so that tiers can be combined into one load number and "
+            "compared against one fixed line.\n"
+            "- **Kidney-function (eGFR) multipliers:** in the eGFR 15-29 "
+            "band, multiplies the half-lives of lisinopril and "
+            "hydrochlorothiazide by 2.0 and of ibuprofen by 1.25. These are "
+            "illustrative assumptions, recorded openly, and are to be "
+            "replaced by per-drug renal clearance fractions in a planned update."
+        )
+
+    # ---------- Abbreviations ----------
+    with st.expander("Abbreviations used"):
+        st.markdown(
+            "- **FAERS**: FDA Adverse Event Reporting System, the U.S. "
+            "database where doctors, patients and companies report suspected "
+            "side effects of medicines.\n"
+            "- **PT**: Preferred Term, the standard medical wording used to "
+            "name one reported side effect in FAERS.\n"
+            "- **AKI**: Acute Kidney Injury, a sudden drop in kidney "
+            "function over hours to days.\n"
+            "- **eGFR**: estimated Glomerular Filtration Rate, a "
+            "blood-test-based estimate of how well the kidneys filter.\n"
+            "- **NSAID**: Non-Steroidal Anti-Inflammatory Drug, a common "
+            "painkiller group (for example ibuprofen).\n"
+            "- **ACE inhibitor**: Angiotensin-Converting Enzyme inhibitor, "
+            "a blood-pressure medicine group (for example lisinopril).\n"
+            "- **ARB**: Angiotensin Receptor Blocker, a blood-pressure "
+            "medicine group (for example losartan).\n"
+            "- **AUC**: Area Under the Curve, the total combined load added "
+            "up over the full 24 hours.\n"
+            "- **AUROC**: Area Under the Receiver Operating Characteristic "
+            "curve, how well the learning model separates harmful from "
+            "non-harmful medicines (0.5 is chance, 1.0 is perfect).\n"
+            "- **AUPRC**: Area Under the Precision-Recall Curve, a similar "
+            "model score that focuses on the harmful cases.\n"
+            "- **MCC**: Matthews Correlation Coefficient, a single model "
+            "quality score from -1 (always wrong) through 0 (chance) to "
+            "+1 (perfect).\n"
+            "- **PK**: Pharmacokinetics, how the body absorbs, moves and "
+            "removes a medicine over time.\n"
+            "- **Tmax**: the time after a dose when the medicine's level in "
+            "the blood is at its highest.\n"
+            "- **SMILES**: Simplified Molecular Input Line Entry System, a "
+            "short text code that describes a medicine's chemical "
+            "structure.\n"
+            "- **RDKit**: a free software toolkit used to work with "
+            "chemical structures and compute structure-based values.\n"
+            "- **Streamlit**: the free Python framework this web app is "
+            "built and run with.\n"
+            "- **GitHub**: the website where this project's code and data "
+            "files are stored and version-tracked."
         )
 
 
